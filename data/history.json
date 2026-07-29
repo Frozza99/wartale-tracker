@@ -1,5 +1,351 @@
 {
   "characters": {},
-  "rankings": {},
-  "updatedAt": null
+  "rankings": {
+    "mining": {
+      "label": "Mineração",
+      "entries": {
+        "AssassinaPower": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-07-29",
+              "value": 10,
+              "gain": 0
+            }
+          ]
+        },
+        "AssassinaPower2": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-07-29",
+              "value": 10,
+              "gain": 0
+            }
+          ]
+        },
+        "-Colombia♥-": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-07-29",
+              "value": 10,
+              "gain": 0
+            }
+          ]
+        },
+        "AssByAss": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-07-29",
+              "value": 10,
+              "gain": 0
+            }
+          ]
+        },
+        "❤️♡": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-07-29",
+              "value": 10,
+              "gain": 0
+            }
+          ]
+        },
+        "BaNaNiGhT": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-07-29",
+              "value": 10,
+              "gain": 0
+            }
+          ]
+        },
+        "MineradoraFJ": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-07-29",
+              "value": 10,
+              "gain": 0
+            }
+          ]
+        },
+        "JustAShadow": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000036806.png",
+          "history": [
+            {
+              "date": "2026-07-29",
+              "value": 10,
+              "gain": 0
+            }
+          ]
+        },
+        "Baiiana": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-07-29",
+              "value": 10,
+              "gain": 0
+            }
+          ]
+        },
+        "-ThìDi-": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037728.png",
+          "history": [
+            {
+              "date": "2026-07-29",
+              "value": 10,
+              "gain": 0
+            }
+          ]
+        }
+      }
+    },
+    "fishing": {
+      "label": "Pesca",
+      "entries": {
+        "Ludriel": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000034695.png",
+          "history": [
+            {
+              "date": "2026-07-29",
+              "value": 10,
+              "gain": 0
+            }
+          ]
+        },
+        "[K]itty": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000035295.png",
+          "history": [
+            {
+              "date": "2026-07-29",
+              "value": 10,
+              "gain": 0
+            }
+          ]
+        },
+        "Letii": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-07-29",
+              "value": 10,
+              "gain": 0
+            }
+          ]
+        },
+        "ㄒ卄乇ﾠ丂卄卂ᗪㄖ山": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-07-29",
+              "value": 10,
+              "gain": 0
+            }
+          ]
+        },
+        "Perotto": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000006329.png",
+          "history": [
+            {
+              "date": "2026-07-29",
+              "value": 10,
+              "gain": 0
+            }
+          ]
+        },
+        "Carloto": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000034695.png",
+          "history": [
+            {
+              "date": "2026-07-29",
+              "value": 10,
+              "gain": 0
+            }
+          ]
+        },
+        "-Michelin-": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000035295.png",
+          "history": [
+            {
+              "date": "2026-07-29",
+              "value": 10,
+              "gain": 0
+            }
+          ]
+        },
+        "-Darker": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037484.png",
+          "history": [
+            {
+              "date": "2026-07-29",
+              "value": 10,
+              "gain": 0
+            }
+          ]
+        },
+        "Nuoweina™": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037048.png",
+          "history": [
+            {
+              "date": "2026-07-29",
+              "value": 10,
+              "gain": 0
+            }
+          ]
+        },
+        "Palyn🕊️": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037048.png",
+          "history": [
+            {
+              "date": "2026-07-29",
+              "value": 10,
+              "gain": 0
+            }
+          ]
+        }
+      }
+    },
+    "pvp": {
+      "label": "PvP Individual",
+      "entries": {
+        "Slytherin🐍": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000006329.png",
+          "history": [
+            {
+              "date": "2026-07-29",
+              "value": 34816,
+              "gain": 0
+            }
+          ]
+        },
+        "Fonteles": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000034695.png",
+          "history": [
+            {
+              "date": "2026-07-29",
+              "value": 29049,
+              "gain": 0
+            }
+          ]
+        },
+        "No[A]h": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000006329.png",
+          "history": [
+            {
+              "date": "2026-07-29",
+              "value": 25722,
+              "gain": 0
+            }
+          ]
+        },
+        "Mjizzy": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000034695.png",
+          "history": [
+            {
+              "date": "2026-07-29",
+              "value": 24990,
+              "gain": 0
+            }
+          ]
+        },
+        "Arrowstriker🦅": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037766.png",
+          "history": [
+            {
+              "date": "2026-07-29",
+              "value": 22733,
+              "gain": 0
+            }
+          ]
+        },
+        "[D]raklia": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000006329.png",
+          "history": [
+            {
+              "date": "2026-07-29",
+              "value": 22304,
+              "gain": 0
+            }
+          ]
+        },
+        "Maria-Da-Penha": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000034695.png",
+          "history": [
+            {
+              "date": "2026-07-29",
+              "value": 21481,
+              "gain": 0
+            }
+          ]
+        },
+        "Prateado": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000006329.png",
+          "history": [
+            {
+              "date": "2026-07-29",
+              "value": 18774,
+              "gain": 0
+            }
+          ]
+        },
+        "-Will-": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000006329.png",
+          "history": [
+            {
+              "date": "2026-07-29",
+              "value": 16972,
+              "gain": 0
+            }
+          ]
+        },
+        "︺iVanHelsing︺": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037766.png",
+          "history": [
+            {
+              "date": "2026-07-29",
+              "value": 15320,
+              "gain": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "updatedAt": "2026-07-29T23:56:10.149Z"
 }
