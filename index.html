@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Ledger de Ascensão — Wartale</title>
+<meta name="description" content="Ranking diário de personagens do Wartale (Priston Tale) — nível, % de EXP e progresso real, direto da API oficial." />
+<meta property="og:title" content="Ledger de Ascensão — Wartale" />
+<meta property="og:description" content="Ranking diário de personagens do Wartale — nível, % de EXP e progresso real." />
+<meta property="og:image" content="https://cdn.wartale.com/img/guide/portraits/knight.png" />
+<meta name="twitter:card" content="summary" />
+<link rel="icon" type="image/png" href="https://cdn.wartale.com/img/guide/portraits/knight.png" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<style>
+  * { box-sizing: border-box; }
+  body { margin:0; background:#12131A; color:#E8E3D8; font-family:'Inter',sans-serif; }
+  .display { font-family:'Cinzel', serif; }
+  .mono { font-family:'JetBrains Mono', monospace; }
+  a { color:inherit; }
+  .header { border-bottom:1px solid #262A3A; padding:28px 24px 20px; }
+  .title-row { display:flex; align-items:baseline; gap:12px; flex-wrap:wrap; justify-content:space-between; }
+  .title-left { display:flex; align-items:baseline; gap:12px; flex-wrap:wrap; }
+  h1 { font-size:28px; font-weight:700; margin:0; letter-spacing:1px; }
+  .sub { color:#8B8FA3; font-size:13px; }
+  .nav-link { font-size:12.5px; color:#8B8FA3; text-decoration:none; border:1px solid #2A2E3F; border-radius:6px; padding:6px 12px; }
+  .nav-link:hover { color:#E8E3D8; border-color:#C9A24B55; }
+  .badge { margin-top:10px; display:inline-flex; gap:8px; align-items:center; background:#1B1E29; border:1px solid #2A2E3F; border-radius:6px; padding:6px 12px; font-size:12.5px; color:#8B8FA3; }
+  .toolbar { display:flex; gap:10px; flex-wrap:wrap; margin-bottom:14px; }
+  .toolbar input, .toolbar select { background:#12131A; border:1px solid #2A2E3F; color:#E8E3D8; border-radius:8px; padding:8px 12px; font-family:'Inter',sans-serif; font-size:13px; }
+  .toolbar input { flex:1; min-width:160px; }
+  .wrap { display:flex; gap:20px; padding:24px; flex-wrap:wrap; }
+  .col { flex:1 1 420px; min-width:340px; }
+  .col h2 { font-size:15px; letter-spacing:1.5px; color:#C9A24B; margin:0 0 12px; }
+  .board { background:#1B1E29; border-radius:10px; border:1px solid #262A3A; overflow:hidden; max-height:600px; overflow-y:auto; }
+  .row { display:flex; align-items:center; gap:14px; padding:12px 16px; border-bottom:1px solid #21242F; border-left:3px solid transparent; cursor:pointer; }
+  .row:last-child { border-bottom:none; }
+  .row:hover { background:#212536; }
+  .row.selected { background:#232032; border-left:3px solid #C9A24B; }
+  .rank { width:26px; display:flex; align-items:center; justify-content:center; color:#5A5F73; font-size:13px; }
+  .rank img { width:22px; height:22px; }
+  .icon-wrap { position:relative; width:36px; height:36px; flex-shrink:0; }
+  .icon { width:36px; height:36px; border-radius:8px; background:#0D0E14; display:flex; align-items:center; justify-content:center; font-size:16px; overflow:hidden; }
+  .icon img { width:100%; height:100%; object-fit:cover; }
+  .clan-badge { position:absolute; bottom:-3px; right:-3px; width:16px; height:16px; border-radius:4px; border:1.5px solid #1B1E29; background:#0D0E14; overflow:hidden; }
+  .clan-badge img { width:100%; height:100%; object-fit:cover; }
+  .name-block { flex:1; min-width:0; }
+  .name { font-weight:600; font-size:14px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+  .meta { font-size:11.5px; color:#8B8FA3; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+  .right { text-align:right; }
+  .tri { font-size:13px; }
+  .pct { font-size:11px; display:flex; align-items:center; justify-content:flex-end; gap:3px; }
+  .up { color:#6FBF8B; } .down { color:#C1502E; } .flat { color:#5A5F73; }
+  .panel { background:#1B1E29; border-radius:10px; border:1px solid #262A3A; padding:20px; }
+  .panel-top { display:flex; justify-content:space-between; align-items:flex-start; }
+  .p-name { font-size:22px; font-weight:700; }
+  .p-meta { color:#8B8FA3; font-size:13px; margin-top:2px; }
+  .p-tri { font-size:20px; color:#C9A24B; text-align:right; }
+  .p-tri-label { font-size:11px; color:#8B8FA3; text-align:right; }
+  .progress-label { display:flex; justify-content:space-between; font-size:11.5px; color:#8B8FA3; margin-bottom:6px; }
+  .bar-bg { height:8px; border-radius:4px; background:#12131A; overflow:hidden; }
+  .bar-fill { height:100%; background:linear-gradient(90deg,#5FA8C9,#C9A24B); }
+  .need { font-size:11px; color:#5A5F73; margin-top:4px; }
+  .forecast { margin-top:14px; background:#12131A; border:1px solid #21242F; border-radius:8px; padding:10px 12px; font-size:12px; color:#9AA5B1; }
+  .chart-label { font-size:11.5px; color:#8B8FA3; margin-bottom:8px; }
+  svg text { font-family:'JetBrains Mono', monospace; font-size:10px; fill:#5A5F73; }
+  .compare-section, .clan-section { padding:0 24px 32px; }
+  .check-list { display:flex; flex-wrap:wrap; gap:8px; margin-bottom:18px; }
+  .check-pill { display:flex; align-items:center; gap:6px; border:1px solid #2A2E3F; border-radius:20px; padding:5px 12px 5px 8px; font-size:12px; cursor:pointer; user-select:none; color:#8B8FA3; background:#12131A; }
+  .check-pill.active { color:#E8E3D8; border-color:currentColor; }
+  .swatch { width:9px; height:9px; border-radius:50%; flex-shrink:0; }
+  .legend { display:flex; flex-wrap:wrap; gap:14px; margin-top:10px; font-size:11.5px; color:#8B8FA3; }
+  .empty { color:#5A5F73; font-size:13px; padding:24px 0; text-align:center; }
+  .p-icon-wrap { position:relative; width:52px; height:52px; flex-shrink:0; }
+  .p-icon { width:52px; height:52px; border-radius:10px; background:#0D0E14; overflow:hidden; }
+  .p-icon img { width:100%; height:100%; object-fit:cover; }
+  .p-clan-badge { position:absolute; bottom:-4px; right:-4px; width:20px; height:20px; border-radius:5px; border:2px solid #1B1E29; background:#0D0E14; overflow:hidden; }
+  .p-clan-badge img { width:100%; height:100%; object-fit:cover; }
+  .p-name-row { display:flex; align-items:center; gap:12px; }
+  .clan-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(220px,1fr)); gap:12px; }
+  .clan-card { background:#1B1E29; border:1px solid #262A3A; border-radius:10px; padding:14px; }
+  .clan-card-top { display:flex; align-items:center; gap:10px; }
+  .clan-icon { width:32px; height:32px; border-radius:7px; overflow:hidden; background:#0D0E14; flex-shrink:0; }
+  .clan-icon img { width:100%; height:100%; object-fit:cover; }
+  .clan-name { font-weight:600; font-size:13.5px; }
+  .clan-slogan { font-size:11px; color:#8B8FA3; font-style:italic; }
+  .clan-stats { margin-top:10px; font-size:11.5px; color:#9AA5B1; display:flex; justify-content:space-between; }
+</style>
+</head>
+<body>
+  <div class="header">
+    <div class="title-row">
+      <div class="title-left">
+        <h1 class="display">Ledger de Ascensão</h1>
+        <span class="sub">Wartale · Priston Tale · Nível 160–178</span>
+      </div>
+      <a class="nav-link" href="sobre.html">Como funciona ⓘ</a>
+    </div>
+    <div class="badge" id="statusBadge">ⓘ Carregando dados...</div>
+  </div>
+
+  <div class="wrap">
+    <div class="col">
+      <h2 class="display">RANKING</h2>
+      <div class="toolbar">
+        <input id="searchBox" type="text" placeholder="Buscar por nome..." oninput="onFilterChange()" />
+        <select id="classFilter" onchange="onFilterChange()"><option value="">Todas as classes</option></select>
+      </div>
+      <div class="board" id="board"></div>
+    </div>
+    <div class="col">
+      <h2 class="display">FICHA DO PERSONAGEM</h2>
+      <div class="panel" id="panel"></div>
+    </div>
+  </div>
+
+  <div class="compare-section">
+    <h2 class="display" style="font-size:15px; letter-spacing:1.5px; color:#C9A24B; margin:0 0 12px;">COMPARAR EVOLUÇÃO DIÁRIA (TRI)</h2>
+    <div class="panel">
+      <div class="check-list" id="checkList"></div>
+      <div id="compareChart"></div>
+      <div class="legend" id="compareLegend"></div>
+    </div>
+  </div>
+
+  <div class="clan-section">
+    <h2 class="display" style="font-size:15px; letter-spacing:1.5px; color:#C9A24B; margin:0 0 12px;">RANKING DE CLÃS</h2>
+    <div class="clan-grid" id="clanGrid"></div>
+  </div>
+
+<script>
+const PALETTE = ["#C9A24B", "#5FA8C9", "#C1502E", "#6FBF8B", "#A78BFA", "#E17DA0", "#9AA5B1", "#F2A65A"];
+
+function classIconUrl(className){
+  const slug = (className || "").toLowerCase().trim().replace(/[^a-z]/g, "");
+  return `https://cdn.wartale.com/img/guide/portraits/${slug}.png`;
+}
+function trophyUrl(rankIndex){
+  if (rankIndex > 2) return null;
+  return `https://cdn.wartale.com/img/guide/trophies/lvl${rankIndex+1}.png`;
+}
+function classIconImg(className, size){
+  return `<img src="${classIconUrl(className)}" alt="${className}" width="${size}" height="${size}"
+    onerror="this.style.display='none'; this.parentElement.textContent='⚔️';" />`;
+}
+function clanBadgeImg(url, cssClass){
+  if (!url) return "";
+  return `<div class="${cssClass}"><img src="${url}" alt="clã" onerror="this.parentElement.style.display='none';" /></div>`;
+}
+
+let EXP_TABLE = {}; // usado só pra estimar "dias até o 178" (previsão aproximada)
+let history = { characters: {}, rankings: {} };
+
+function toTri(raw){ return raw/1e12; }
+function triBetween(a,b){
+  const A = EXP_TABLE[a], B = EXP_TABLE[b];
+  if(!A || !B) return null;
+  return +(toTri(B.total)-toTri(A.total)).toFixed(3);
+}
+
+async function loadData(){
+  const badge = document.getElementById("statusBadge");
+  try {
+    const [expRes, histRes] = await Promise.all([
+      fetch("exp-table.json").catch(()=>null),
+      fetch("data/history.json"),
+    ]);
+    if (expRes && expRes.ok) EXP_TABLE = await expRes.json();
+    history = await histRes.json();
+  } catch (e) {
+    badge.textContent = "⚠ Não foi possível carregar data/history.json. Verifique se o arquivo existe no repositório.";
+    return;
+  }
+
+  const names = Object.keys(history.characters || {});
+  if (names.length === 0) {
+    badge.textContent = "ⓘ Ainda não há coletas registradas. Rode o coletor manualmente na aba Actions do GitHub.";
+    document.getElementById("board").innerHTML = '<div class="empty">Sem dados ainda</div>';
+    document.getElementById("panel").innerHTML = '<div class="empty">Sem dados ainda</div>';
+    return;
+  }
+
+  const updated = history.updatedAt ? new Date(history.updatedAt).toLocaleString("pt-BR") : "—";
+  badge.textContent = `ⓘ Dados oficiais da API do Wartale · última coleta: ${updated} · ${names.length} personagens`;
+
+  buildCharacters();
+  populateClassFilter();
+  renderBoard();
+  renderPanel();
+  renderCompareControls();
+  renderClans();
+}
+
+let characters = [];
+let selectedId = null;
+let compareSelected = new Set();
+
+function buildCharacters(){
+  characters = Object.entries(history.characters).map(([name, data], idx) => {
+    const h = [...data.history].sort((a,b)=> a.date.localeCompare(b.date));
+    const latest = h[h.length-1];
+    const todayGain = latest.triGain || 0;
+
+    return {
+      id: idx,
+      name,
+      class: data.class,
+      clanIconUrl: data.clanIconUrl || null,
+      clanName: data.clanName || null,
+      clanSlogan: data.clanSlogan || null,
+      level: latest.level,
+      exp: latest.exp,
+      progressPct: latest.expPercentage != null ? +latest.expPercentage.toFixed(2) : null,
+      todayGain,
+      history: h,
+    };
+  });
+  characters.sort((a,b)=> b.level - a.level || b.todayGain - a.todayGain);
+  if (selectedId === null) selectedId = characters[0].id;
+
+  if (compareSelected.size === 0) {
+    [...characters].sort((a,b)=> b.todayGain - a.todayGain).slice(0,3).forEach(c => compareSelected.add(c.id));
+  }
+}
+
+function populateClassFilter(){
+  const sel = document.getElementById("classFilter");
+  const classes = [...new Set(characters.map(c=>c.class))].sort();
+  sel.innerHTML = '<option value="">Todas as classes</option>' + classes.map(c=>`<option value="${c}">${c}</option>`).join("");
+}
+
+function onFilterChange(){ renderBoard(); }
+
+function getFilteredCharacters(){
+  const q = (document.getElementById("searchBox")?.value || "").toLowerCase().trim();
+  const cls = document.getElementById("classFilter")?.value || "";
+  return characters.filter(c =>
+    (!q || c.name.toLowerCase().includes(q)) &&
+    (!cls || c.class === cls)
+  );
+}
+
+function renderBoard(){
+  const board = document.getElementById("board");
+  const list = getFilteredCharacters();
+  if (list.length === 0) {
+    board.innerHTML = '<div class="empty">Nenhum personagem encontrado</div>';
+    return;
+  }
+  board.innerHTML = list.map((c) => {
+    const idx = characters.indexOf(c);
+    const isSel = c.id === selectedId;
+    const dirClass = c.todayGain > 0 ? "up" : "flat";
+    const arrow = c.todayGain > 0 ? "▲" : "•";
+    const medal = trophyUrl(idx);
+    const rankHtml = medal
+      ? `<img src="${medal}" alt="${idx+1}º lugar" onerror="this.replaceWith('${idx+1}.')" />`
+      : `${idx+1}.`;
+    const pctLabel = c.progressPct != null ? `${c.progressPct}%` : "—";
+    return `<div class="row ${isSel?'selected':''}" onclick="selectChar(${c.id})">
+      <div class="rank mono">${rankHtml}</div>
+      <div class="icon-wrap">
+        <div class="icon">${classIconImg(c.class, 36)}</div>
+        ${clanBadgeImg(c.clanIconUrl, "clan-badge")}
+      </div>
+      <div class="name-block">
+        <div class="name">${c.name}</div>
+        <div class="meta">${c.class} · Lv ${c.level}${c.clanName ? " · " + c.clanName : ""}</div>
+      </div>
+      <div class="right">
+        <div class="tri mono">${pctLabel}</div>
+        <div class="pct ${dirClass}">${arrow} ${c.todayGain.toFixed(3)} tri hoje</div>
+      </div>
+    </div>`;
+  }).join("");
+}
+
+function sparkline(hist, key, color){
+  const w=340, h=140, pad=20;
+  const vals = hist.map(x=>x[key]);
+  const min = Math.min(0, ...vals), max = Math.max(...vals, 0.001);
+  const range = (max-min)||1;
+  const stepX = hist.length>1 ? (w-2*pad)/(hist.length-1) : 0;
+  const pts = hist.map((x,i)=>{
+    const px = pad + i*stepX;
+    const py = (h-pad) - ((x[key]-min)/range)*(h-2*pad);
+    return `${px},${py}`;
+  }).join(" ");
+  const dots = hist.map((x,i)=>{
+    const px = pad + i*stepX;
+    const py = (h-pad) - ((x[key]-min)/range)*(h-2*pad);
+    return `<circle cx="${px}" cy="${py}" r="2.5" fill="${color}" />`;
+  }).join("");
+  const gridLines = [0,0.5,1].map(f=>{
+    const y = pad + f*(h-2*pad);
+    return `<line x1="${pad}" y1="${y}" x2="${w-pad}" y2="${y}" stroke="#21242F" stroke-width="1"/>`;
+  }).join("");
+  return `<svg width="100%" viewBox="0 0 ${w} ${h}" preserveAspectRatio="xMidYMid meet">${gridLines}<polyline points="${pts}" fill="none" stroke="${color}" stroke-width="2"/>${dots}</svg>`;
+}
+
+function renderForecast(c){
+  const recent = c.history.slice(-7);
+  if (recent.length < 2) return '<div class="forecast">Ainda não há dados suficientes pra estimar o ritmo.</div>';
+  const totalGain = recent.reduce((s,h)=> s + (h.triGain||0), 0);
+  const avgPerDay = totalGain / (recent.length - 1);
+  if (avgPerDay <= 0) return '<div class="forecast">Sem ganho de nível nos últimos dias — sem dados pra estimar o ritmo.</div>';
+  if (!EXP_TABLE[c.level] || !EXP_TABLE[178]) {
+    return `<div class="forecast">Ritmo médio: <b>${avgPerDay.toFixed(3)} tri/dia</b> (últimos ${recent.length} dias)</div>`;
+  }
+  const remaining = triBetween(c.level, 178);
+  if (remaining === null || remaining <= 0) {
+    return `<div class="forecast">Ritmo médio: <b>${avgPerDay.toFixed(3)} tri/dia</b> · já está no nível máximo rastreado 🏆</div>`;
+  }
+  const days = Math.ceil(remaining / avgPerDay);
+  return `<div class="forecast">Ritmo médio: <b>${avgPerDay.toFixed(3)} tri/dia</b> (últimos ${recent.length} dias) · nesse ritmo, chega ao <b>nível 178 em ~${days} dias</b> (estimativa)</div>`;
+}
+
+function renderPanel(){
+  const c = characters.find(x=>x.id===selectedId);
+  if (!c) return;
+  const pctLabel = c.progressPct != null ? `${c.progressPct}%` : "—";
+  document.getElementById("panel").innerHTML = `
+    <div class="panel-top">
+      <div class="p-name-row">
+        <div class="p-icon-wrap">
+          <div class="p-icon">${classIconImg(c.class, 52)}</div>
+          ${clanBadgeImg(c.clanIconUrl, "p-clan-badge")}
+        </div>
+        <div>
+          <div class="p-name display">${c.name}</div>
+          <div class="p-meta">${c.class} · Nível ${c.level}${c.clanName ? " · " + c.clanName : ""}</div>
+        </div>
+      </div>
+      <div>
+        <div class="p-tri mono">${pctLabel}</div>
+        <div class="p-tri-label">progresso p/ o próx. nível</div>
+      </div>
+    </div>
+    <div style="margin-top:18px;">
+      <div class="progress-label"><span>Progresso (dado oficial da API)</span><span class="mono">${pctLabel}</span></div>
+      <div class="bar-bg"><div class="bar-fill" style="width:${c.progressPct||0}%"></div></div>
+      <div class="need">Ganho hoje: ${c.todayGain.toFixed(3)} tri ${c.todayGain===0 ? "(sem level-up hoje)" : ""}</div>
+    </div>
+    ${renderForecast(c)}
+    <div style="margin-top:22px;">
+      <div class="chart-label">Tri ganhos por coleta (histórico registrado)</div>
+      ${c.history.length > 1 ? sparkline(c.history, "triGain", "#C9A24B") : '<div class="empty">Ainda só há 1 coleta — o gráfico aparece a partir da 2ª.</div>'}
+    </div>
+  `;
+}
+
+function selectChar(id){ selectedId=id; renderBoard(); renderPanel(); }
+
+function renderCompareControls(){
+  const list = document.getElementById("checkList");
+  list.innerHTML = characters.map((c, i) => {
+    const color = PALETTE[i % PALETTE.length];
+    const active = compareSelected.has(c.id);
+    return `<div class="check-pill ${active?'active':''}" style="color:${active?color:'#8B8FA3'}" onclick="toggleCompare(${c.id})">
+      <span class="swatch" style="background:${color}"></span>${c.name}
+    </div>`;
+  }).join("");
+  renderCompareChart();
+}
+
+function toggleCompare(id){
+  if (compareSelected.has(id)) compareSelected.delete(id); else compareSelected.add(id);
+  renderCompareControls();
+}
+
+function renderCompareChart(){
+  const container = document.getElementById("compareChart");
+  const legend = document.getElementById("compareLegend");
+  const selected = characters.filter(c => compareSelected.has(c.id));
+
+  if (selected.length === 0) {
+    container.innerHTML = '<div class="empty">Selecione ao menos um personagem acima</div>';
+    legend.innerHTML = "";
+    return;
+  }
+
+  const allDates = [...new Set(selected.flatMap(c => c.history.map(h => h.date)))].sort();
+  if (allDates.length < 2) {
+    container.innerHTML = '<div class="empty">É preciso pelo menos 2 dias de coleta para comparar evolução.</div>';
+    legend.innerHTML = "";
+    return;
+  }
+
+  const w = 700, h = 260, pad = 30;
+  const allVals = selected.flatMap(c => c.history.map(h => h.triGain));
+  const min = Math.min(0, ...allVals), max = Math.max(...allVals, 0.001);
+  const range = (max-min)||1;
+  const stepX = (w-2*pad)/(allDates.length-1);
+
+  let svgLines = "";
+  let legendHtml = "";
+
+  selected.forEach((c) => {
+    const idx = characters.findIndex(x=>x.id===c.id);
+    const color = PALETTE[idx % PALETTE.length];
+    const byDate = Object.fromEntries(c.history.map(h => [h.date, h.triGain]));
+    const pts = allDates.map((d, i) => {
+      const val = byDate[d] ?? 0;
+      const x = pad + i*stepX;
+      const y = (h-pad) - ((val-min)/range)*(h-2*pad);
+      return `${x},${y}`;
+    }).join(" ");
+    svgLines += `<polyline points="${pts}" fill="none" stroke="${color}" stroke-width="2.5" opacity="0.9"/>`;
+    legendHtml += `<span style="display:flex;align-items:center;gap:5px;"><span class="swatch" style="background:${color}"></span>${c.name}</span>`;
+  });
+
+  const gridLines = [0,0.25,0.5,0.75,1].map(f=>{
+    const y = pad + f*(h-2*pad);
+    return `<line x1="${pad}" y1="${y}" x2="${w-pad}" y2="${y}" stroke="#21242F" stroke-width="1"/>`;
+  }).join("");
+
+  container.innerHTML = `<svg width="100%" viewBox="0 0 ${w} ${h}" preserveAspectRatio="xMidYMid meet">${gridLines}${svgLines}</svg>`;
+  legend.innerHTML = legendHtml;
+}
+
+function renderClans(){
+  const grid = document.getElementById("clanGrid");
+  const byClan = {};
+  characters.forEach(c => {
+    if (!c.clanName) return;
+    const key = c.clanName;
+    if (!byClan[key]) byClan[key] = { name: c.clanName, slogan: c.clanSlogan, icon: c.clanIconUrl, members: 0, todayGain: 0, maxLevel: 0 };
+    byClan[key].members += 1;
+    byClan[key].todayGain += c.todayGain;
+    byClan[key].maxLevel = Math.max(byClan[key].maxLevel, c.level);
+  });
+  const clans = Object.values(byClan).sort((a,b)=> b.todayGain - a.todayGain || b.maxLevel - a.maxLevel);
+
+  if (clans.length === 0) {
+    grid.innerHTML = '<div class="empty">Nenhum personagem com clã identificado ainda</div>';
+    return;
+  }
+
+  grid.innerHTML = clans.map(clan => `
+    <div class="clan-card">
+      <div class="clan-card-top">
+        <div class="clan-icon">${clan.icon ? `<img src="${clan.icon}" onerror="this.parentElement.style.display='none'"/>` : ""}</div>
+        <div>
+          <div class="clan-name">${clan.name}</div>
+          ${clan.slogan ? `<div class="clan-slogan">"${clan.slogan}"</div>` : ""}
+        </div>
+      </div>
+      <div class="clan-stats">
+        <span>${clan.members} membro${clan.members>1?"s":""} rastreado${clan.members>1?"s":""}</span>
+        <span class="mono" style="color:#C9A24B">+${clan.todayGain.toFixed(2)} tri hoje</span>
+      </div>
+    </div>
+  `).join("");
+}
+
+loadData();
+</script>
+</body>
+</html>

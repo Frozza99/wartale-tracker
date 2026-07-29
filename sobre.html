@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Como funciona — Ledger de Ascensão</title>
+<link rel="icon" type="image/png" href="https://cdn.wartale.com/img/guide/portraits/knight.png" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  body { margin:0; background:#12131A; color:#E8E3D8; font-family:'Inter',sans-serif; line-height:1.65; }
+  .wrap { max-width:720px; margin:0 auto; padding:32px 24px 60px; }
+  .display { font-family:'Cinzel', serif; }
+  h1 { font-size:26px; }
+  h2 { font-size:16px; color:#C9A24B; letter-spacing:0.5px; margin-top:36px; }
+  a { color:#5FA8C9; }
+  .back { display:inline-block; margin-bottom:20px; font-size:13px; color:#8B8FA3; text-decoration:none; }
+  code { background:#1B1E29; padding:2px 6px; border-radius:4px; font-size:13px; }
+  ul { padding-left:20px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <a class="back" href="index.html">← voltar pro ranking</a>
+  <h1 class="display">Como funciona o Ledger de Ascensão</h1>
+  <p>Esse site acompanha diariamente os personagens de nível 160 a 178 do Wartale (servidor de Priston Tale), mostrando progresso, ganho de EXP e comparação entre jogadores.</p>
+
+  <h2>DE ONDE VÊM OS DADOS</h2>
+  <p>O ranking Top Level vem direto da <b>API oficial do Wartale</b> — os mesmos dados que alimentam o ranking do site oficial. Nível, EXP e porcentagem de progresso são exatos, não estimados.</p>
+  <p>Rankings extras (mineração, pesca, PvP) vêm do ranking público exibido em <code>wartale.com/ranking</code>.</p>
+
+  <h2>COM QUE FREQUÊNCIA ATUALIZA</h2>
+  <p>Uma rotina automática busca os dados a cada 30 minutos e salva um novo registro. Não é instantâneo — o GitHub (que hospeda essa automação de graça) não garante o minuto exato, então pode haver alguns minutos de atraso.</p>
+
+  <h2>O QUE SIGNIFICA "TRI"</h2>
+  <p>É a forma abreviada de "trilhões" de EXP — nos níveis mais altos do jogo, a experiência necessária passa a ser contada em trilhões, então usamos "tri" como unidade (ex: 34.99 tri = 34.994.646.404.461.99... pontos de EXP).</p>
+
+  <h2>SOBRE O RANKING DE CLÃS</h2>
+  <p>É calculado agrupando os personagens rastreados pelo nome do clã. Só entram nesse cálculo os clãs de personagens que aparecem no ranking Top Level — não é uma contagem de clã completa do servidor.</p>
+
+  <h2>SOBRE A PREVISÃO ("RITMO MÉDIO")</h2>
+  <p>É uma estimativa baseada no ritmo de ganho de EXP dos últimos dias daquele personagem — não é garantia de nada, só uma projeção simples caso o ritmo se mantenha igual.</p>
+
+  <h2>LIMITAÇÕES CONHECIDAS</h2>
+  <ul>
+    <li>Se um personagem ficar off-line/sem aparecer no ranking por um tempo, o histórico dele fica pausado até reaparecer.</li>
+    <li>O mapeamento de classe (número → nome) foi inferido pela ordem oficial dos ícones do site, não veio confirmado na documentação da API.</li>
+  </ul>
+
+  <p style="margin-top:40px; color:#5A5F73; font-size:12px;">Site não-oficial, feito por fãs. Não tem afiliação com a equipe do Wartale.</p>
+</div>
+</body>
+</html>

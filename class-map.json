@@ -1,0 +1,15 @@
+{
+  "_comment": "A API do Wartale devolve a classe como número (campo 'class'), não como nome. Esse mapa foi inferido pela ORDEM em que os ícones de classe aparecem no filtro oficial de ranking (wartale.com/ranking) — não veio confirmado na documentação. Se algum ícone aparecer errado no site, é só corrigir o nome aqui (ex: trocar '1': 'Fighter' pelo nome certo) que atualiza em todo o site.",
+  "0": "Todas",
+  "1": "Fighter",
+  "2": "Mechanician",
+  "3": "Archer",
+  "4": "Pikeman",
+  "5": "Assassin",
+  "6": "Brawler",
+  "7": "Knight",
+  "8": "Atalanta",
+  "9": "Priestess",
+  "10": "Magician",
+  "11": "Shaman"
+}

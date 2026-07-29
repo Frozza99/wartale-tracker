@@ -1,0 +1,12 @@
+{
+  "name": "wartale-tracker",
+  "version": "1.0.0",
+  "description": "Rastreador diário de personagens do Wartale (níveis 160-178)",
+  "main": "scraper.js",
+  "scripts": {
+    "collect": "node scraper.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}
