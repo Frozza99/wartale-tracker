@@ -809,9 +809,119 @@
               "gain": 1160
             }
           ]
+        },
+        "$AMC": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000035361.png",
+          "history": [
+            {
+              "date": "2026-08-01",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "$EsposaConcursada$": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037171.png",
+          "history": [
+            {
+              "date": "2026-08-01",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "$pA®TaN™": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000036873.png",
+          "history": [
+            {
+              "date": "2026-08-01",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "'Nym": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037113.png",
+          "history": [
+            {
+              "date": "2026-08-01",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "(｡･ω･｡)ﾉ♡": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-08-01",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "+1.Res.cd": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000035643.png",
+          "history": [
+            {
+              "date": "2026-08-01",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "+ZunTaRo+": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000036169.png",
+          "history": [
+            {
+              "date": "2026-08-01",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "-.-.-.-T-.-.-.-": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000035705.png",
+          "history": [
+            {
+              "date": "2026-08-01",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "-[B]iiHan-": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037489.png",
+          "history": [
+            {
+              "date": "2026-08-01",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "-[D.H]-": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-08-01",
+              "value": 0,
+              "gain": 0
+            }
+          ]
         }
       }
     }
   },
-  "updatedAt": "2026-08-01T15:47:50.995Z"
+  "updatedAt": "2026-08-01T20:14:00.404Z"
 }
