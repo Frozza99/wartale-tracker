@@ -555,8 +555,8 @@
             },
             {
               "date": "2026-08-01",
-              "value": 33758,
-              "gain": 2894
+              "value": 4049,
+              "gain": 0
             }
           ]
         },
@@ -581,8 +581,8 @@
             },
             {
               "date": "2026-08-01",
-              "value": 27930,
-              "gain": 2167
+              "value": 2447,
+              "gain": 0
             }
           ]
         },
@@ -659,7 +659,7 @@
             },
             {
               "date": "2026-08-01",
-              "value": 19264,
+              "value": 3393,
               "gain": 0
             }
           ]
@@ -711,8 +711,8 @@
             },
             {
               "date": "2026-08-01",
-              "value": 21053,
-              "gain": 2392
+              "value": 2541,
+              "gain": 0
             }
           ]
         },
@@ -919,9 +919,75 @@
               "gain": 0
             }
           ]
+        },
+        "XxfiloxX": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000034695.png",
+          "history": [
+            {
+              "date": "2026-08-01",
+              "value": 2549,
+              "gain": 0
+            }
+          ]
+        },
+        "Soneca💤​": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000006329.png",
+          "history": [
+            {
+              "date": "2026-08-01",
+              "value": 2390,
+              "gain": 0
+            }
+          ]
+        },
+        "IvyPark": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000006329.png",
+          "history": [
+            {
+              "date": "2026-08-01",
+              "value": 2306,
+              "gain": 0
+            }
+          ]
+        },
+        "PerigoN🕊️": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037766.png",
+          "history": [
+            {
+              "date": "2026-08-01",
+              "value": 2121,
+              "gain": 0
+            }
+          ]
+        },
+        "Crumpet": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000034695.png",
+          "history": [
+            {
+              "date": "2026-08-01",
+              "value": 1957,
+              "gain": 0
+            }
+          ]
+        },
+        "SpeeD​🏃": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037766.png",
+          "history": [
+            {
+              "date": "2026-08-01",
+              "value": 1796,
+              "gain": 0
+            }
+          ]
         }
       }
     }
   },
-  "updatedAt": "2026-08-01T20:14:00.404Z"
+  "updatedAt": "2026-08-01T23:47:48.340Z"
 }
