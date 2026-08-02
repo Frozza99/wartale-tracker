@@ -660,14 +660,14 @@
             },
             {
               "date": "2026-08-02",
-              "value": 9330,
-              "gain": 5281
+              "value": 9144,
+              "gain": 5095
             }
           ]
         },
         "Fonteles": {
           "class": "Desconhecida",
-          "clanIconUrl": null,
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037766.png",
           "history": [
             {
               "date": "2026-07-29",
@@ -691,8 +691,8 @@
             },
             {
               "date": "2026-08-02",
-              "value": 9763,
-              "gain": 7316
+              "value": 9569,
+              "gain": 7122
             }
           ]
         },
@@ -729,7 +729,7 @@
         },
         "Mjizzy": {
           "class": "Desconhecida",
-          "clanIconUrl": null,
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037766.png",
           "history": [
             {
               "date": "2026-07-29",
@@ -753,7 +753,7 @@
             },
             {
               "date": "2026-08-02",
-              "value": 7633,
+              "value": 7481,
               "gain": 0
             }
           ]
@@ -815,14 +815,14 @@
             },
             {
               "date": "2026-08-02",
-              "value": 12297,
+              "value": 12052,
               "gain": 0
             }
           ]
         },
         "Maria-Da-Penha": {
           "class": "Desconhecida",
-          "clanIconUrl": "https://user.wartale.com/clanicons/1000034695.png",
+          "clanIconUrl": null,
           "history": [
             {
               "date": "2026-07-29",
@@ -846,8 +846,8 @@
             },
             {
               "date": "2026-08-02",
-              "value": 7863,
-              "gain": 5322
+              "value": 8624,
+              "gain": 6083
             }
           ]
         },
@@ -1148,7 +1148,7 @@
           "history": [
             {
               "date": "2026-08-02",
-              "value": 8248,
+              "value": 8084,
               "gain": 0
             }
           ]
@@ -1159,7 +1159,7 @@
           "history": [
             {
               "date": "2026-08-02",
-              "value": 6681,
+              "value": 6549,
               "gain": 0
             }
           ]
@@ -1170,7 +1170,7 @@
           "history": [
             {
               "date": "2026-08-02",
-              "value": 6194,
+              "value": 6071,
               "gain": 0
             }
           ]
@@ -1181,7 +1181,7 @@
           "history": [
             {
               "date": "2026-08-02",
-              "value": 5823,
+              "value": 5707,
               "gain": 0
             }
           ]
@@ -1192,7 +1192,7 @@
           "history": [
             {
               "date": "2026-08-02",
-              "value": 6403,
+              "value": 6275,
               "gain": 0
             }
           ]
@@ -1200,5 +1200,5 @@
       }
     }
   },
-  "updatedAt": "2026-08-02T20:15:41.621Z"
+  "updatedAt": "2026-08-02T23:45:20.939Z"
 }
