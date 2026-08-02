@@ -660,8 +660,8 @@
             },
             {
               "date": "2026-08-02",
-              "value": 9485,
-              "gain": 5436
+              "value": 9330,
+              "gain": 5281
             }
           ]
         },
@@ -691,8 +691,8 @@
             },
             {
               "date": "2026-08-02",
-              "value": 7012,
-              "gain": 4565
+              "value": 9763,
+              "gain": 7316
             }
           ]
         },
@@ -722,7 +722,7 @@
             },
             {
               "date": "2026-08-02",
-              "value": 6278,
+              "value": 6403,
               "gain": 0
             }
           ]
@@ -753,7 +753,7 @@
             },
             {
               "date": "2026-08-02",
-              "value": 6381,
+              "value": 7633,
               "gain": 0
             }
           ]
@@ -815,7 +815,7 @@
             },
             {
               "date": "2026-08-02",
-              "value": 10544,
+              "value": 12297,
               "gain": 0
             }
           ]
@@ -846,8 +846,8 @@
             },
             {
               "date": "2026-08-02",
-              "value": 5985,
-              "gain": 3444
+              "value": 7863,
+              "gain": 5322
             }
           ]
         },
@@ -1141,9 +1141,53 @@
               "gain": 0
             }
           ]
+        },
+        "PIRADINHO": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037048.png",
+          "history": [
+            {
+              "date": "2026-08-02",
+              "value": 8248,
+              "gain": 0
+            }
+          ]
+        },
+        "MajesticKing": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037048.png",
+          "history": [
+            {
+              "date": "2026-08-02",
+              "value": 6681,
+              "gain": 0
+            }
+          ]
+        },
+        "Reinaldinho": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037048.png",
+          "history": [
+            {
+              "date": "2026-08-02",
+              "value": 6194,
+              "gain": 0
+            }
+          ]
+        },
+        "RVGSLAYER": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037048.png",
+          "history": [
+            {
+              "date": "2026-08-02",
+              "value": 5823,
+              "gain": 0
+            }
+          ]
         }
       }
     }
   },
-  "updatedAt": "2026-08-02T11:46:06.890Z"
+  "updatedAt": "2026-08-02T15:47:43.561Z"
 }
