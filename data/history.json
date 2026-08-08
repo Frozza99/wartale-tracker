@@ -1750,6 +1750,11 @@
               "date": "2026-08-01",
               "value": 0,
               "gain": 0
+            },
+            {
+              "date": "2026-08-08",
+              "value": 0,
+              "gain": 0
             }
           ]
         },
@@ -2234,9 +2239,20 @@
               "gain": 0
             }
           ]
+        },
+        "$AgiotaConcursado$": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037196.png",
+          "history": [
+            {
+              "date": "2026-08-08",
+              "value": 0,
+              "gain": 0
+            }
+          ]
         }
       }
     }
   },
-  "updatedAt": "2026-08-08T19:16:59.380Z"
+  "updatedAt": "2026-08-08T21:01:16.524Z"
 }
