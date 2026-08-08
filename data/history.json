@@ -1296,8 +1296,8 @@
             },
             {
               "date": "2026-08-08",
-              "value": 26508,
-              "gain": 1224
+              "value": 5107,
+              "gain": 0
             }
           ]
         },
@@ -1357,8 +1357,8 @@
             },
             {
               "date": "2026-08-08",
-              "value": 26913,
-              "gain": 1281
+              "value": 3960,
+              "gain": 0
             }
           ]
         },
@@ -1495,7 +1495,7 @@
             },
             {
               "date": "2026-08-08",
-              "value": 15886,
+              "value": 2679,
               "gain": 0
             }
           ]
@@ -1960,6 +1960,11 @@
               "date": "2026-08-02",
               "value": 4362,
               "gain": 0
+            },
+            {
+              "date": "2026-08-08",
+              "value": 2230,
+              "gain": 0
             }
           ]
         },
@@ -2105,8 +2110,8 @@
             },
             {
               "date": "2026-08-08",
-              "value": 17031,
-              "gain": 2072
+              "value": 2499,
+              "gain": 0
             }
           ]
         },
@@ -2149,6 +2154,11 @@
               "date": "2026-08-06",
               "value": 11200,
               "gain": 146
+            },
+            {
+              "date": "2026-08-08",
+              "value": 1779,
+              "gain": 0
             }
           ]
         },
@@ -2250,9 +2260,53 @@
               "gain": 0
             }
           ]
+        },
+        "tac.ke": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000006329.png",
+          "history": [
+            {
+              "date": "2026-08-08",
+              "value": 2017,
+              "gain": 0
+            }
+          ]
+        },
+        "-EricTai-": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000006329.png",
+          "history": [
+            {
+              "date": "2026-08-08",
+              "value": 1538,
+              "gain": 0
+            }
+          ]
+        },
+        "MaikeLove.": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000006329.png",
+          "history": [
+            {
+              "date": "2026-08-08",
+              "value": 1437,
+              "gain": 0
+            }
+          ]
+        },
+        "-Mason-": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000006329.png",
+          "history": [
+            {
+              "date": "2026-08-08",
+              "value": 1431,
+              "gain": 0
+            }
+          ]
         }
       }
     }
   },
-  "updatedAt": "2026-08-08T21:01:16.524Z"
+  "updatedAt": "2026-08-08T22:59:43.364Z"
 }
