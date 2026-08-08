@@ -1761,6 +1761,11 @@
               "date": "2026-08-01",
               "value": 0,
               "gain": 0
+            },
+            {
+              "date": "2026-08-08",
+              "value": 0,
+              "gain": 0
             }
           ]
         },
@@ -1794,6 +1799,11 @@
               "date": "2026-08-01",
               "value": 0,
               "gain": 0
+            },
+            {
+              "date": "2026-08-08",
+              "value": 0,
+              "gain": 0
             }
           ]
         },
@@ -1803,6 +1813,11 @@
           "history": [
             {
               "date": "2026-08-01",
+              "value": 0,
+              "gain": 0
+            },
+            {
+              "date": "2026-08-08",
               "value": 0,
               "gain": 0
             }
@@ -2142,9 +2157,86 @@
               "gain": 0
             }
           ]
+        },
+        "!Huyền-Anh!": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000030017.png",
+          "history": [
+            {
+              "date": "2026-08-08",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "#SovyCort": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037329.png",
+          "history": [
+            {
+              "date": "2026-08-08",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "$p@n@id3r$": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037704.png",
+          "history": [
+            {
+              "date": "2026-08-08",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "'3beesha": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000036237.png",
+          "history": [
+            {
+              "date": "2026-08-08",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "(-O}{O-)": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000035923.png",
+          "history": [
+            {
+              "date": "2026-08-08",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "-.MomoSampler.-": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-08-08",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "-=ZK=-": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000034184.png",
+          "history": [
+            {
+              "date": "2026-08-08",
+              "value": 0,
+              "gain": 0
+            }
+          ]
         }
       }
     }
   },
-  "updatedAt": "2026-08-08T17:17:29.281Z"
+  "updatedAt": "2026-08-08T19:16:59.380Z"
 }
