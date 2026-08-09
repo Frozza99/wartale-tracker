@@ -1401,8 +1401,8 @@
             },
             {
               "date": "2026-08-09",
-              "value": 5524,
-              "gain": 417
+              "value": 5611,
+              "gain": 504
             }
           ]
         },
@@ -1467,8 +1467,8 @@
             },
             {
               "date": "2026-08-09",
-              "value": 4664,
-              "gain": 704
+              "value": 11250,
+              "gain": 7290
             }
           ]
         },
@@ -1610,8 +1610,8 @@
             },
             {
               "date": "2026-08-09",
-              "value": 3073,
-              "gain": 394
+              "value": 9384,
+              "gain": 6705
             }
           ]
         },
@@ -1769,7 +1769,7 @@
             },
             {
               "date": "2026-08-09",
-              "value": 1923,
+              "value": 3733,
               "gain": 0
             }
           ]
@@ -2292,8 +2292,8 @@
             },
             {
               "date": "2026-08-09",
-              "value": 2141,
-              "gain": 362
+              "value": 9998,
+              "gain": 8219
             }
           ]
         },
@@ -2407,8 +2407,8 @@
             },
             {
               "date": "2026-08-09",
-              "value": 2480,
-              "gain": 463
+              "value": 4615,
+              "gain": 2598
             }
           ]
         },
@@ -2454,9 +2454,53 @@
               "gain": 0
             }
           ]
+        },
+        "LordKenshiN": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037766.png",
+          "history": [
+            {
+              "date": "2026-08-09",
+              "value": 5863,
+              "gain": 0
+            }
+          ]
+        },
+        "Jessi.D": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000006329.png",
+          "history": [
+            {
+              "date": "2026-08-09",
+              "value": 4244,
+              "gain": 0
+            }
+          ]
+        },
+        "leozinssK": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037766.png",
+          "history": [
+            {
+              "date": "2026-08-09",
+              "value": 3817,
+              "gain": 0
+            }
+          ]
+        },
+        "LordBoyka": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037766.png",
+          "history": [
+            {
+              "date": "2026-08-09",
+              "value": 3769,
+              "gain": 0
+            }
+          ]
         }
       }
     }
   },
-  "updatedAt": "2026-08-09T00:01:29.681Z"
+  "updatedAt": "2026-08-09T04:49:54.084Z"
 }
