@@ -721,7 +721,7 @@
       "entries": {
         "Ludriel": {
           "class": "Desconhecida",
-          "clanIconUrl": "https://user.wartale.com/clanicons/1000034695.png",
+          "clanIconUrl": null,
           "history": [
             {
               "date": "2026-07-29",
@@ -1506,7 +1506,7 @@
             },
             {
               "date": "2026-08-10",
-              "value": 9279,
+              "value": 9095,
               "gain": 0
             }
           ]
@@ -1577,8 +1577,8 @@
             },
             {
               "date": "2026-08-10",
-              "value": 13490,
-              "gain": 0
+              "value": 15092,
+              "gain": 1048
             }
           ]
         },
@@ -1725,7 +1725,7 @@
             },
             {
               "date": "2026-08-10",
-              "value": 11720,
+              "value": 11487,
               "gain": 0
             }
           ]
@@ -1927,6 +1927,11 @@
               "date": "2026-08-08",
               "value": 16393,
               "gain": 954
+            },
+            {
+              "date": "2026-08-10",
+              "value": 5665,
+              "gain": 0
             }
           ]
         },
@@ -2417,7 +2422,7 @@
             },
             {
               "date": "2026-08-10",
-              "value": 9795,
+              "value": 9600,
               "gain": 0
             }
           ]
@@ -2537,7 +2542,7 @@
             },
             {
               "date": "2026-08-10",
-              "value": 5688,
+              "value": 5575,
               "gain": 0
             }
           ]
@@ -2596,7 +2601,7 @@
             },
             {
               "date": "2026-08-10",
-              "value": 5594,
+              "value": 5483,
               "gain": 0
             }
           ]
@@ -2612,8 +2617,8 @@
             },
             {
               "date": "2026-08-10",
-              "value": 5268,
-              "gain": 0
+              "value": 5939,
+              "gain": 455
             }
           ]
         },
@@ -2655,7 +2660,18 @@
             },
             {
               "date": "2026-08-10",
-              "value": 5570,
+              "value": 6655,
+              "gain": 1061
+            }
+          ]
+        },
+        "✦м®_т®uɴԍ™❍✦": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000006329.png",
+          "history": [
+            {
+              "date": "2026-08-10",
+              "value": 4776,
               "gain": 0
             }
           ]
@@ -2663,5 +2679,5 @@
       }
     }
   },
-  "updatedAt": "2026-08-10T10:04:30.569Z"
+  "updatedAt": "2026-08-10T14:36:30.545Z"
 }
