@@ -2433,8 +2433,8 @@
             },
             {
               "date": "2026-08-15",
-              "value": 7558,
-              "gain": 431
+              "value": 8721,
+              "gain": 1594
             }
           ]
         },
@@ -2545,8 +2545,8 @@
             },
             {
               "date": "2026-08-15",
-              "value": 10572,
-              "gain": 1624
+              "value": 11451,
+              "gain": 2503
             }
           ]
         },
@@ -3357,8 +3357,8 @@
             },
             {
               "date": "2026-08-15",
-              "value": 19727,
-              "gain": 2696
+              "value": 21634,
+              "gain": 4603
             }
           ]
         },
@@ -3457,9 +3457,20 @@
               "gain": 0
             }
           ]
+        },
+        "LenhHoXung.": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037766.png",
+          "history": [
+            {
+              "date": "2026-08-15",
+              "value": 8386,
+              "gain": 0
+            }
+          ]
         }
       }
     }
   },
-  "updatedAt": "2026-08-15T09:02:17.507Z"
+  "updatedAt": "2026-08-15T09:54:29.858Z"
 }
