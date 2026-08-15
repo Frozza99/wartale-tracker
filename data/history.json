@@ -3495,9 +3495,75 @@
               "gain": 0
             }
           ]
+        },
+        "Assᴀssɪɴ's": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-08-15",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "assasins's": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-08-15",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "Assassin'sCreed": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-08-15",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "assassinatk12": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-08-15",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "Assassinazinha": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-08-15",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "AssCry": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-08-15",
+              "value": 0,
+              "gain": 0
+            }
+          ]
         }
       }
     }
   },
-  "updatedAt": "2026-08-15T16:54:46.673Z"
+  "updatedAt": "2026-08-15T17:44:57.801Z"
 }
