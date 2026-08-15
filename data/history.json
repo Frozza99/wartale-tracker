@@ -3487,7 +3487,7 @@
         },
         "ArrowStriker🦅": {
           "class": "Desconhecida",
-          "clanIconUrl": null,
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037766.png",
           "history": [
             {
               "date": "2026-08-15",
@@ -3609,5 +3609,5 @@
       }
     }
   },
-  "updatedAt": "2026-08-15T19:01:06.721Z"
+  "updatedAt": "2026-08-15T19:57:16.386Z"
 }
