@@ -2031,7 +2031,7 @@
             },
             {
               "date": "2026-08-15",
-              "value": 1434,
+              "value": 5658,
               "gain": 0
             }
           ]
@@ -2127,7 +2127,7 @@
             },
             {
               "date": "2026-08-15",
-              "value": 17191,
+              "value": 1843,
               "gain": 0
             }
           ]
@@ -2489,7 +2489,7 @@
             },
             {
               "date": "2026-08-15",
-              "value": 937,
+              "value": 4006,
               "gain": 0
             }
           ]
@@ -3274,7 +3274,7 @@
             },
             {
               "date": "2026-08-15",
-              "value": 403,
+              "value": 1811,
               "gain": 0
             }
           ]
@@ -3290,8 +3290,8 @@
             },
             {
               "date": "2026-08-15",
-              "value": 170,
-              "gain": 0
+              "value": 1650,
+              "gain": 219
             }
           ]
         },
@@ -3448,6 +3448,11 @@
             {
               "date": "2026-08-12",
               "value": 6238,
+              "gain": 0
+            },
+            {
+              "date": "2026-08-15",
+              "value": 2221,
               "gain": 0
             }
           ]
@@ -3622,7 +3627,40 @@
           "history": [
             {
               "date": "2026-08-15",
-              "value": 2010,
+              "value": 4601,
+              "gain": 0
+            }
+          ]
+        },
+        "-BRABUS-": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000006329.png",
+          "history": [
+            {
+              "date": "2026-08-15",
+              "value": 1469,
+              "gain": 0
+            }
+          ]
+        },
+        "ÌRÖñ§ÌÐÈ": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000006329.png",
+          "history": [
+            {
+              "date": "2026-08-15",
+              "value": 1398,
+              "gain": 0
+            }
+          ]
+        },
+        "[A]lessia": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000006329.png",
+          "history": [
+            {
+              "date": "2026-08-15",
+              "value": 1306,
               "gain": 0
             }
           ]
@@ -3630,5 +3668,5 @@
       }
     }
   },
-  "updatedAt": "2026-08-15T20:53:37.212Z"
+  "updatedAt": "2026-08-15T21:44:57.191Z"
 }
