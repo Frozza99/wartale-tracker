@@ -2031,7 +2031,7 @@
             },
             {
               "date": "2026-08-15",
-              "value": 7551,
+              "value": 206,
               "gain": 0
             }
           ]
@@ -2486,6 +2486,11 @@
               "date": "2026-08-13",
               "value": 7465,
               "gain": 147
+            },
+            {
+              "date": "2026-08-15",
+              "value": 155,
+              "gain": 0
             }
           ]
         },
@@ -3468,9 +3473,31 @@
               "gain": 0
             }
           ]
+        },
+        "-1-": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037766.png",
+          "history": [
+            {
+              "date": "2026-08-15",
+              "value": 150,
+              "gain": 0
+            }
+          ]
+        },
+        "ArrowStriker🦅": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-08-15",
+              "value": 94,
+              "gain": 0
+            }
+          ]
         }
       }
     }
   },
-  "updatedAt": "2026-08-15T14:53:35.903Z"
+  "updatedAt": "2026-08-15T15:44:08.284Z"
 }
