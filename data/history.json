@@ -1627,7 +1627,7 @@
         },
         "-Michelin-": {
           "class": "Desconhecida",
-          "clanIconUrl": "https://user.wartale.com/clanicons/1000035295.png",
+          "clanIconUrl": null,
           "history": [
             {
               "date": "2026-07-29",
@@ -2136,7 +2136,7 @@
             },
             {
               "date": "2026-08-16",
-              "value": 7722,
+              "value": 7446,
               "gain": 0
             }
           ]
@@ -2614,8 +2614,8 @@
             },
             {
               "date": "2026-08-16",
-              "value": 4930,
-              "gain": 0
+              "value": 7183,
+              "gain": 2050
             }
           ]
         },
@@ -3006,6 +3006,11 @@
               "date": "2026-08-04",
               "value": 6953,
               "gain": 0
+            },
+            {
+              "date": "2026-08-16",
+              "value": 10731,
+              "gain": 3778
             }
           ]
         },
@@ -3022,6 +3027,11 @@
               "date": "2026-08-03",
               "value": 6104,
               "gain": 0
+            },
+            {
+              "date": "2026-08-16",
+              "value": 6515,
+              "gain": 411
             }
           ]
         },
@@ -3033,6 +3043,11 @@
               "date": "2026-08-02",
               "value": 6071,
               "gain": 0
+            },
+            {
+              "date": "2026-08-16",
+              "value": 6087,
+              "gain": 16
             }
           ]
         },
@@ -3044,6 +3059,11 @@
               "date": "2026-08-02",
               "value": 5707,
               "gain": 0
+            },
+            {
+              "date": "2026-08-16",
+              "value": 6653,
+              "gain": 946
             }
           ]
         },
@@ -3782,8 +3802,8 @@
             },
             {
               "date": "2026-08-16",
-              "value": 8789,
-              "gain": 2354
+              "value": 9968,
+              "gain": 3533
             }
           ]
         },
@@ -3830,8 +3850,8 @@
             },
             {
               "date": "2026-08-16",
-              "value": 4138,
-              "gain": 0
+              "value": 6339,
+              "gain": 2031
             }
           ]
         },
@@ -3845,9 +3865,31 @@
               "gain": 0
             }
           ]
+        },
+        "-Fanboysama-": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037048.png",
+          "history": [
+            {
+              "date": "2026-08-16",
+              "value": 5816,
+              "gain": 0
+            }
+          ]
+        },
+        "iceiceice.": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037048.png",
+          "history": [
+            {
+              "date": "2026-08-16",
+              "value": 5431,
+              "gain": 0
+            }
+          ]
         }
       }
     }
   },
-  "updatedAt": "2026-08-16T13:44:32.276Z"
+  "updatedAt": "2026-08-16T14:53:58.713Z"
 }
