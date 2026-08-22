@@ -4602,6 +4602,11 @@
               "date": "2026-08-15",
               "value": 0,
               "gain": 0
+            },
+            {
+              "date": "2026-08-22",
+              "value": 0,
+              "gain": 0
             }
           ]
         },
@@ -4624,6 +4629,11 @@
               "date": "2026-08-15",
               "value": 0,
               "gain": 0
+            },
+            {
+              "date": "2026-08-22",
+              "value": 0,
+              "gain": 0
             }
           ]
         },
@@ -4633,6 +4643,11 @@
           "history": [
             {
               "date": "2026-08-15",
+              "value": 0,
+              "gain": 0
+            },
+            {
+              "date": "2026-08-22",
               "value": 0,
               "gain": 0
             }
@@ -4881,9 +4896,75 @@
               "gain": 0
             }
           ]
+        },
+        "Artemis♣": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000034969.png",
+          "history": [
+            {
+              "date": "2026-08-22",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "AsDing": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-08-22",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "Aseo": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-08-22",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "Asmita": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037018.png",
+          "history": [
+            {
+              "date": "2026-08-22",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "AssassinHat": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037586.png",
+          "history": [
+            {
+              "date": "2026-08-22",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "AssassinX326": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000032831.png",
+          "history": [
+            {
+              "date": "2026-08-22",
+              "value": 0,
+              "gain": 0
+            }
+          ]
         }
       }
     }
   },
-  "updatedAt": "2026-08-22T16:55:45.771Z"
+  "updatedAt": "2026-08-22T17:49:58.420Z"
 }
