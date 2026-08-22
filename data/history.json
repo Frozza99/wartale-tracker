@@ -1313,6 +1313,17 @@
               "gain": 0
             }
           ]
+        },
+        "📲MotoUBER🏍️💨": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037113.png",
+          "history": [
+            {
+              "date": "2026-08-22",
+              "value": 10,
+              "gain": 0
+            }
+          ]
         }
       }
     },
@@ -4869,5 +4880,5 @@
       }
     }
   },
-  "updatedAt": "2026-08-22T11:45:38.149Z"
+  "updatedAt": "2026-08-22T13:43:48.227Z"
 }
