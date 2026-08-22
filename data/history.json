@@ -2783,7 +2783,7 @@
             },
             {
               "date": "2026-08-22",
-              "value": 372,
+              "value": 625,
               "gain": 0
             }
           ]
@@ -3381,7 +3381,7 @@
             },
             {
               "date": "2026-08-22",
-              "value": 16655,
+              "value": 83,
               "gain": 0
             }
           ]
@@ -3563,7 +3563,7 @@
             },
             {
               "date": "2026-08-22",
-              "value": 19084,
+              "value": 87,
               "gain": 0
             }
           ]
@@ -4578,7 +4578,7 @@
             },
             {
               "date": "2026-08-22",
-              "value": 287,
+              "value": 343,
               "gain": 0
             }
           ]
@@ -4749,7 +4749,7 @@
             },
             {
               "date": "2026-08-22",
-              "value": 50,
+              "value": 574,
               "gain": 0
             }
           ]
@@ -4817,7 +4817,7 @@
             },
             {
               "date": "2026-08-22",
-              "value": 321,
+              "value": 1068,
               "gain": 0
             }
           ]
@@ -5022,9 +5022,42 @@
               "gain": 0
             }
           ]
+        },
+        "Jessica": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037752.png",
+          "history": [
+            {
+              "date": "2026-08-22",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "JeZaBeL": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000023605.png",
+          "history": [
+            {
+              "date": "2026-08-22",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "JhonnPetraSC": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000036510.png",
+          "history": [
+            {
+              "date": "2026-08-22",
+              "value": 0,
+              "gain": 0
+            }
+          ]
         }
       }
     }
   },
-  "updatedAt": "2026-08-22T19:58:16.622Z"
+  "updatedAt": "2026-08-22T20:54:58.477Z"
 }
