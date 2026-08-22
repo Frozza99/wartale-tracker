@@ -2783,7 +2783,7 @@
             },
             {
               "date": "2026-08-22",
-              "value": 29210,
+              "value": 372,
               "gain": 0
             }
           ]
@@ -4424,7 +4424,7 @@
             },
             {
               "date": "2026-08-22",
-              "value": 16376,
+              "value": 80,
               "gain": 0
             }
           ]
@@ -4578,7 +4578,7 @@
             },
             {
               "date": "2026-08-22",
-              "value": 211,
+              "value": 287,
               "gain": 0
             }
           ]
@@ -4749,7 +4749,7 @@
             },
             {
               "date": "2026-08-22",
-              "value": 33942,
+              "value": 50,
               "gain": 0
             }
           ]
@@ -4814,6 +4814,11 @@
               "date": "2026-08-17",
               "value": 9883,
               "gain": 3544
+            },
+            {
+              "date": "2026-08-22",
+              "value": 321,
+              "gain": 0
             }
           ]
         },
@@ -4962,9 +4967,64 @@
               "gain": 0
             }
           ]
+        },
+        "jurimbe": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-08-22",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "JustaK": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-08-22",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "JustaM": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-08-22",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "JusticeiraCruel": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037225.png",
+          "history": [
+            {
+              "date": "2026-08-22",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "K1llerClown": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000031928.png",
+          "history": [
+            {
+              "date": "2026-08-22",
+              "value": 0,
+              "gain": 0
+            }
+          ]
         }
       }
     }
   },
-  "updatedAt": "2026-08-22T19:02:53.224Z"
+  "updatedAt": "2026-08-22T19:58:16.622Z"
 }
