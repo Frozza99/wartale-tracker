@@ -2512,7 +2512,7 @@
         },
         "Carloto": {
           "class": "Desconhecida",
-          "clanIconUrl": "https://user.wartale.com/clanicons/1000037766.png",
+          "clanIconUrl": null,
           "history": [
             {
               "date": "2026-07-29",
@@ -4428,7 +4428,7 @@
             },
             {
               "date": "2026-08-30",
-              "value": 7712,
+              "value": 8090,
               "gain": 0
             }
           ]
@@ -6341,5 +6341,5 @@
       }
     }
   },
-  "updatedAt": "2026-08-30T14:56:10.633Z"
+  "updatedAt": "2026-08-30T18:30:57.291Z"
 }
