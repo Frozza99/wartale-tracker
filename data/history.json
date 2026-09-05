@@ -1957,7 +1957,7 @@
         },
         "Manca": {
           "class": "Desconhecida",
-          "clanIconUrl": "https://user.wartale.com/clanicons/1000037199.png",
+          "clanIconUrl": null,
           "history": [
             {
               "date": "2026-09-01",
@@ -6480,7 +6480,7 @@
         },
         "-1-": {
           "class": "Desconhecida",
-          "clanIconUrl": "https://user.wartale.com/clanicons/1000037766.png",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037484.png",
           "history": [
             {
               "date": "2026-08-15",
@@ -6496,6 +6496,11 @@
               "date": "2026-08-23",
               "value": 5024,
               "gain": 4026
+            },
+            {
+              "date": "2026-09-05",
+              "value": 310,
+              "gain": 0
             }
           ]
         },
@@ -7293,5 +7298,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-05T12:56:12.816Z"
+  "updatedAt": "2026-09-05T15:52:34.040Z"
 }
