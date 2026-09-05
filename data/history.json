@@ -4170,7 +4170,7 @@
             },
             {
               "date": "2026-09-05",
-              "value": 7859,
+              "value": 1156,
               "gain": 0
             }
           ]
@@ -6499,7 +6499,7 @@
             },
             {
               "date": "2026-09-05",
-              "value": 310,
+              "value": 549,
               "gain": 0
             }
           ]
@@ -6935,7 +6935,7 @@
             },
             {
               "date": "2026-09-05",
-              "value": 25939,
+              "value": 327,
               "gain": 0
             }
           ]
@@ -7294,9 +7294,86 @@
               "gain": 0
             }
           ]
+        },
+        "Axe&Slay✨": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000006329.png",
+          "history": [
+            {
+              "date": "2026-09-05",
+              "value": 753,
+              "gain": 0
+            }
+          ]
+        },
+        "Tadalofilo💊": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037018.png",
+          "history": [
+            {
+              "date": "2026-09-05",
+              "value": 94,
+              "gain": 0
+            }
+          ]
+        },
+        "TalktomyHanD™": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-09-05",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "Talud": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-09-05",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "TamPike": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000036169.png",
+          "history": [
+            {
+              "date": "2026-09-05",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "TankHumano": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-09-05",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "Tankilson": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-09-05",
+              "value": 0,
+              "gain": 0
+            }
+          ]
         }
       }
     }
   },
-  "updatedAt": "2026-09-05T15:52:34.040Z"
+  "updatedAt": "2026-09-05T17:59:10.134Z"
 }
