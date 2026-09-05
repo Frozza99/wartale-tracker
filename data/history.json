@@ -4895,6 +4895,11 @@
               "date": "2026-08-24",
               "value": 10215,
               "gain": 3744
+            },
+            {
+              "date": "2026-09-05",
+              "value": 83,
+              "gain": 0
             }
           ]
         },
@@ -5205,7 +5210,7 @@
             },
             {
               "date": "2026-09-05",
-              "value": 19293,
+              "value": 77,
               "gain": 0
             }
           ]
@@ -6499,7 +6504,7 @@
             },
             {
               "date": "2026-09-05",
-              "value": 549,
+              "value": 671,
               "gain": 0
             }
           ]
@@ -6935,7 +6940,7 @@
             },
             {
               "date": "2026-09-05",
-              "value": 327,
+              "value": 431,
               "gain": 0
             }
           ]
@@ -7232,6 +7237,11 @@
               "date": "2026-08-23",
               "value": 662,
               "gain": 77
+            },
+            {
+              "date": "2026-09-05",
+              "value": 0,
+              "gain": 0
             }
           ]
         },
@@ -7301,7 +7311,7 @@
           "history": [
             {
               "date": "2026-09-05",
-              "value": 753,
+              "value": 2004,
               "gain": 0
             }
           ]
@@ -7371,9 +7381,31 @@
               "gain": 0
             }
           ]
+        },
+        "Babayaga.": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000036950.png",
+          "history": [
+            {
+              "date": "2026-09-05",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "BaBeMax": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-09-05",
+              "value": 0,
+              "gain": 0
+            }
+          ]
         }
       }
     }
   },
-  "updatedAt": "2026-09-05T17:59:10.134Z"
+  "updatedAt": "2026-09-05T20:15:21.860Z"
 }
