@@ -4275,8 +4275,8 @@
             },
             {
               "date": "2026-09-06",
-              "value": 1099,
-              "gain": 0
+              "value": 2830,
+              "gain": 1674
             }
           ]
         },
@@ -4508,6 +4508,11 @@
             {
               "date": "2026-09-05",
               "value": 13601,
+              "gain": 0
+            },
+            {
+              "date": "2026-09-06",
+              "value": 1542,
               "gain": 0
             }
           ]
@@ -6224,6 +6229,11 @@
               "date": "2026-08-30",
               "value": 3604,
               "gain": 1237
+            },
+            {
+              "date": "2026-09-06",
+              "value": 1563,
+              "gain": 0
             }
           ]
         },
@@ -6553,6 +6563,11 @@
               "date": "2026-09-02",
               "value": 6950,
               "gain": 0
+            },
+            {
+              "date": "2026-09-06",
+              "value": 2025,
+              "gain": 0
             }
           ]
         },
@@ -6624,8 +6639,8 @@
             },
             {
               "date": "2026-09-06",
-              "value": 638,
-              "gain": 0
+              "value": 1603,
+              "gain": 932
             }
           ]
         },
@@ -7070,8 +7085,8 @@
             },
             {
               "date": "2026-09-06",
-              "value": 908,
-              "gain": 477
+              "value": 1504,
+              "gain": 1073
             }
           ]
         },
@@ -7388,6 +7403,11 @@
               "date": "2026-08-23",
               "value": 2952,
               "gain": 0
+            },
+            {
+              "date": "2026-09-06",
+              "value": 1801,
+              "gain": 0
             }
           ]
         },
@@ -7451,8 +7471,8 @@
             },
             {
               "date": "2026-09-06",
-              "value": 1906,
-              "gain": 0
+              "value": 4092,
+              "gain": 2088
             }
           ]
         },
@@ -7570,9 +7590,31 @@
               "gain": 0
             }
           ]
+        },
+        "Nimrodel": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000006329.png",
+          "history": [
+            {
+              "date": "2026-09-06",
+              "value": 1767,
+              "gain": 0
+            }
+          ]
+        },
+        "-TonyHoang-": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000006329.png",
+          "history": [
+            {
+              "date": "2026-09-06",
+              "value": 1649,
+              "gain": 0
+            }
+          ]
         }
       }
     }
   },
-  "updatedAt": "2026-09-06T13:03:01.816Z"
+  "updatedAt": "2026-09-06T16:23:37.644Z"
 }
