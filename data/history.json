@@ -4325,7 +4325,7 @@
         },
         "CarlotoFS": {
           "class": "Desconhecida",
-          "clanIconUrl": null,
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037048.png",
           "history": [
             {
               "date": "2026-09-01",
@@ -7921,7 +7921,7 @@
             },
             {
               "date": "2026-09-09",
-              "value": 5450,
+              "value": 5486,
               "gain": 0
             }
           ]
@@ -8135,5 +8135,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-09T20:39:16.765Z"
+  "updatedAt": "2026-09-09T23:02:12.911Z"
 }
