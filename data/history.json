@@ -4905,7 +4905,7 @@
             },
             {
               "date": "2026-09-12",
-              "value": 8608,
+              "value": 3730,
               "gain": 0
             }
           ]
@@ -5172,8 +5172,8 @@
             },
             {
               "date": "2026-09-12",
-              "value": 7884,
-              "gain": 1128
+              "value": 386,
+              "gain": 0
             }
           ]
         },
@@ -5690,6 +5690,11 @@
               "date": "2026-09-06",
               "value": 79,
               "gain": 0
+            },
+            {
+              "date": "2026-09-12",
+              "value": 662,
+              "gain": 583
             }
           ]
         },
@@ -5879,7 +5884,7 @@
             },
             {
               "date": "2026-09-12",
-              "value": 10233,
+              "value": 1065,
               "gain": 0
             }
           ]
@@ -6065,8 +6070,8 @@
             },
             {
               "date": "2026-09-12",
-              "value": 17100,
-              "gain": 92
+              "value": 916,
+              "gain": 0
             }
           ]
         },
@@ -6331,7 +6336,7 @@
         },
         "Crumpet": {
           "class": "Desconhecida",
-          "clanIconUrl": "https://user.wartale.com/clanicons/1000037766.png",
+          "clanIconUrl": null,
           "history": [
             {
               "date": "2026-08-01",
@@ -6347,6 +6352,11 @@
               "date": "2026-08-04",
               "value": 7568,
               "gain": 1415
+            },
+            {
+              "date": "2026-09-12",
+              "value": 1248,
+              "gain": 0
             }
           ]
         },
@@ -7009,6 +7019,11 @@
               "date": "2026-09-06",
               "value": 1563,
               "gain": 0
+            },
+            {
+              "date": "2026-09-12",
+              "value": 1895,
+              "gain": 332
             }
           ]
         },
@@ -7471,6 +7486,11 @@
               "date": "2026-09-10",
               "value": 4049,
               "gain": 475
+            },
+            {
+              "date": "2026-09-12",
+              "value": 1611,
+              "gain": 0
             }
           ]
         },
@@ -8564,7 +8584,7 @@
             },
             {
               "date": "2026-09-12",
-              "value": 7422,
+              "value": 512,
               "gain": 0
             }
           ]
@@ -8665,9 +8685,20 @@
               "gain": 0
             }
           ]
+        },
+        "Voodoo.": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000006329.png",
+          "history": [
+            {
+              "date": "2026-09-12",
+              "value": 328,
+              "gain": 0
+            }
+          ]
         }
       }
     }
   },
-  "updatedAt": "2026-09-12T18:38:19.134Z"
+  "updatedAt": "2026-09-12T21:17:51.678Z"
 }
