@@ -5815,7 +5815,7 @@
         },
         "︺iVanHelsing︺": {
           "class": "Desconhecida",
-          "clanIconUrl": "https://user.wartale.com/clanicons/1000037766.png",
+          "clanIconUrl": null,
           "history": [
             {
               "date": "2026-07-29",
@@ -6004,8 +6004,8 @@
             },
             {
               "date": "2026-09-13",
-              "value": 7339,
-              "gain": 6289
+              "value": 8985,
+              "gain": 7935
             }
           ]
         },
@@ -6195,8 +6195,8 @@
             },
             {
               "date": "2026-09-13",
-              "value": 9442,
-              "gain": 8544
+              "value": 9347,
+              "gain": 8449
             }
           ]
         },
@@ -6575,6 +6575,11 @@
               "date": "2026-09-02",
               "value": 6048,
               "gain": 0
+            },
+            {
+              "date": "2026-09-13",
+              "value": 8045,
+              "gain": 1997
             }
           ]
         },
@@ -6605,6 +6610,11 @@
             {
               "date": "2026-08-31",
               "value": 5966,
+              "gain": 0
+            },
+            {
+              "date": "2026-09-13",
+              "value": 4923,
               "gain": 0
             }
           ]
@@ -7578,7 +7588,7 @@
             },
             {
               "date": "2026-09-13",
-              "value": 5074,
+              "value": 5837,
               "gain": 0
             }
           ]
@@ -8133,6 +8143,11 @@
               "date": "2026-08-16",
               "value": 5816,
               "gain": 0
+            },
+            {
+              "date": "2026-09-13",
+              "value": 4910,
+              "gain": 0
             }
           ]
         },
@@ -8409,8 +8424,8 @@
             },
             {
               "date": "2026-09-13",
-              "value": 6845,
-              "gain": 633
+              "value": 6444,
+              "gain": 232
             }
           ]
         },
@@ -8879,7 +8894,7 @@
           "history": [
             {
               "date": "2026-09-13",
-              "value": 6286,
+              "value": 6224,
               "gain": 0
             }
           ]
@@ -8894,9 +8909,31 @@
               "gain": 0
             }
           ]
+        },
+        "Rovisi": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037048.png",
+          "history": [
+            {
+              "date": "2026-09-13",
+              "value": 6168,
+              "gain": 0
+            }
+          ]
+        },
+        "Pavarote": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037048.png",
+          "history": [
+            {
+              "date": "2026-09-13",
+              "value": 5300,
+              "gain": 0
+            }
+          ]
         }
       }
     }
   },
-  "updatedAt": "2026-09-13T12:36:22.630Z"
+  "updatedAt": "2026-09-13T16:53:08.407Z"
 }
