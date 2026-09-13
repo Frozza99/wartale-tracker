@@ -5010,7 +5010,7 @@
             },
             {
               "date": "2026-09-13",
-              "value": 3988,
+              "value": 3909,
               "gain": 0
             }
           ]
@@ -6004,8 +6004,8 @@
             },
             {
               "date": "2026-09-13",
-              "value": 1050,
-              "gain": 0
+              "value": 2494,
+              "gain": 1444
             }
           ]
         },
@@ -6195,8 +6195,8 @@
             },
             {
               "date": "2026-09-13",
-              "value": 898,
-              "gain": 0
+              "value": 3561,
+              "gain": 2663
             }
           ]
         },
@@ -7157,7 +7157,7 @@
             },
             {
               "date": "2026-09-13",
-              "value": 1895,
+              "value": 1858,
               "gain": 0
             }
           ]
@@ -7634,7 +7634,7 @@
             },
             {
               "date": "2026-09-13",
-              "value": 1793,
+              "value": 1758,
               "gain": 0
             }
           ]
@@ -7923,6 +7923,11 @@
             {
               "date": "2026-08-16",
               "value": 2716,
+              "gain": 0
+            },
+            {
+              "date": "2026-09-13",
+              "value": 1843,
               "gain": 0
             }
           ]
@@ -8396,6 +8401,11 @@
               "date": "2026-09-12",
               "value": 6212,
               "gain": 0
+            },
+            {
+              "date": "2026-09-13",
+              "value": 5331,
+              "gain": 0
             }
           ]
         },
@@ -8846,9 +8856,42 @@
               "gain": 0
             }
           ]
+        },
+        "Tahoe": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000036231.png",
+          "history": [
+            {
+              "date": "2026-09-13",
+              "value": 4758,
+              "gain": 0
+            }
+          ]
+        },
+        "Bleach": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000036231.png",
+          "history": [
+            {
+              "date": "2026-09-13",
+              "value": 2525,
+              "gain": 0
+            }
+          ]
+        },
+        "Jaya": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037869.png",
+          "history": [
+            {
+              "date": "2026-09-13",
+              "value": 1715,
+              "gain": 0
+            }
+          ]
         }
       }
     }
   },
-  "updatedAt": "2026-09-13T01:20:00.005Z"
+  "updatedAt": "2026-09-13T06:37:17.003Z"
 }
