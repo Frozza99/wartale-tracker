@@ -9696,9 +9696,20 @@
               "gain": 0
             }
           ]
+        },
+        "Tetraktys": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-09-18",
+              "value": 4790,
+              "gain": 0
+            }
+          ]
         }
       }
     }
   },
-  "updatedAt": "2026-09-18T20:35:55.564Z"
+  "updatedAt": "2026-09-18T23:06:31.362Z"
 }
