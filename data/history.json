@@ -10046,9 +10046,20 @@
               "gain": 0
             }
           ]
+        },
+        "BR-03": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-09-19",
+              "value": 0,
+              "gain": 0
+            }
+          ]
         }
       }
     }
   },
-  "updatedAt": "2026-09-19T20:13:52.913Z"
+  "updatedAt": "2026-09-19T22:25:03.499Z"
 }
