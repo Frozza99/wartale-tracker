@@ -8420,7 +8420,7 @@
         },
         "-1-": {
           "class": "Desconhecida",
-          "clanIconUrl": "https://user.wartale.com/clanicons/1000037484.png",
+          "clanIconUrl": null,
           "history": [
             {
               "date": "2026-08-15",
@@ -8475,6 +8475,11 @@
             {
               "date": "2026-09-13",
               "value": 1758,
+              "gain": 0
+            },
+            {
+              "date": "2026-09-19",
+              "value": 326,
               "gain": 0
             }
           ]
@@ -9942,9 +9947,108 @@
               "gain": 0
             }
           ]
+        },
+        "Siludo": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000034695.png",
+          "history": [
+            {
+              "date": "2026-09-19",
+              "value": 241,
+              "gain": 0
+            }
+          ]
+        },
+        "🤜ℋ𝒶𝓎𝒹ℯ𝓃🤜": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-09-19",
+              "value": 142,
+              "gain": 0
+            }
+          ]
+        },
+        "BoogieDasCrema": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000034695.png",
+          "history": [
+            {
+              "date": "2026-09-19",
+              "value": 75,
+              "gain": 0
+            }
+          ]
+        },
+        "BORN_TO_DIE": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000006329.png",
+          "history": [
+            {
+              "date": "2026-09-19",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "Bow+": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000035562.png",
+          "history": [
+            {
+              "date": "2026-09-19",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "BoXBoX": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-09-19",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "Boxing": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-09-19",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "BozoKnight": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-09-19",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "Brabo": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037018.png",
+          "history": [
+            {
+              "date": "2026-09-19",
+              "value": 0,
+              "gain": 0
+            }
+          ]
         }
       }
     }
   },
-  "updatedAt": "2026-09-19T17:50:06.614Z"
+  "updatedAt": "2026-09-19T20:13:52.913Z"
 }
