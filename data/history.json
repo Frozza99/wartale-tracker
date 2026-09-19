@@ -6985,6 +6985,11 @@
               "date": "2026-09-12",
               "value": 0,
               "gain": 0
+            },
+            {
+              "date": "2026-09-19",
+              "value": 0,
+              "gain": 0
             }
           ]
         },
@@ -7036,6 +7041,11 @@
             },
             {
               "date": "2026-09-12",
+              "value": 0,
+              "gain": 0
+            },
+            {
+              "date": "2026-09-19",
               "value": 0,
               "gain": 0
             }
@@ -7100,6 +7110,11 @@
             },
             {
               "date": "2026-09-12",
+              "value": 0,
+              "gain": 0
+            },
+            {
+              "date": "2026-09-19",
               "value": 0,
               "gain": 0
             }
@@ -7770,6 +7785,11 @@
               "date": "2026-09-12",
               "value": 0,
               "gain": 0
+            },
+            {
+              "date": "2026-09-19",
+              "value": 0,
+              "gain": 0
             }
           ]
         },
@@ -7855,6 +7875,11 @@
           "history": [
             {
               "date": "2026-08-08",
+              "value": 0,
+              "gain": 0
+            },
+            {
+              "date": "2026-09-19",
               "value": 0,
               "gain": 0
             }
@@ -9862,9 +9887,64 @@
               "gain": 838
             }
           ]
+        },
+        "'nklve": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-09-19",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "(_Angel_Rivas_)": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037550.png",
+          "history": [
+            {
+              "date": "2026-09-19",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "-=GOLD=-": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037509.png",
+          "history": [
+            {
+              "date": "2026-09-19",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "-[O]bito": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037018.png",
+          "history": [
+            {
+              "date": "2026-09-19",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "-[Sayure]-": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037196.png",
+          "history": [
+            {
+              "date": "2026-09-19",
+              "value": 0,
+              "gain": 0
+            }
+          ]
         }
       }
     }
   },
-  "updatedAt": "2026-09-19T14:41:10.888Z"
+  "updatedAt": "2026-09-19T17:50:06.614Z"
 }
