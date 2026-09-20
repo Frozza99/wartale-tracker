@@ -2632,7 +2632,7 @@
         },
         "Manca": {
           "class": "Desconhecida",
-          "clanIconUrl": "https://user.wartale.com/clanicons/1000037113.png",
+          "clanIconUrl": null,
           "history": [
             {
               "date": "2026-09-01",
@@ -8584,7 +8584,7 @@
             },
             {
               "date": "2026-09-20",
-              "value": 322,
+              "value": 319,
               "gain": 0
             }
           ]
@@ -10064,7 +10064,7 @@
             },
             {
               "date": "2026-09-20",
-              "value": 239,
+              "value": 236,
               "gain": 0
             }
           ]
@@ -10080,7 +10080,7 @@
             },
             {
               "date": "2026-09-20",
-              "value": 141,
+              "value": 140,
               "gain": 0
             }
           ]
@@ -10213,9 +10213,20 @@
               "gain": 0
             }
           ]
+        },
+        "BoRi1517": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-09-20",
+              "value": 0,
+              "gain": 0
+            }
+          ]
         }
       }
     }
   },
-  "updatedAt": "2026-09-20T00:17:00.048Z"
+  "updatedAt": "2026-09-20T05:14:21.635Z"
 }
