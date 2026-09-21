@@ -6142,14 +6142,14 @@
             },
             {
               "date": "2026-09-21",
-              "value": 9033,
-              "gain": 527
+              "value": 8943,
+              "gain": 437
             }
           ]
         },
         "Mjizzy": {
           "class": "Desconhecida",
-          "clanIconUrl": null,
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000006329.png",
           "history": [
             {
               "date": "2026-07-29",
@@ -6285,6 +6285,11 @@
               "date": "2026-09-04",
               "value": 5924,
               "gain": 0
+            },
+            {
+              "date": "2026-09-21",
+              "value": 7136,
+              "gain": 1212
             }
           ]
         },
@@ -6939,8 +6944,8 @@
             },
             {
               "date": "2026-09-21",
-              "value": 8886,
-              "gain": 5751
+              "value": 8829,
+              "gain": 5694
             }
           ]
         },
@@ -7170,8 +7175,8 @@
             },
             {
               "date": "2026-09-21",
-              "value": 10959,
-              "gain": 5693
+              "value": 14294,
+              "gain": 9028
             }
           ]
         },
@@ -7745,7 +7750,7 @@
         },
         "LordAeros.": {
           "class": "Desconhecida",
-          "clanIconUrl": "https://user.wartale.com/clanicons/1000037766.png",
+          "clanIconUrl": null,
           "history": [
             {
               "date": "2026-08-05",
@@ -7801,6 +7806,11 @@
               "date": "2026-09-09",
               "value": 3520,
               "gain": 0
+            },
+            {
+              "date": "2026-09-21",
+              "value": 10080,
+              "gain": 6560
             }
           ]
         },
@@ -8248,7 +8258,7 @@
             },
             {
               "date": "2026-09-21",
-              "value": 7180,
+              "value": 7108,
               "gain": 0
             }
           ]
@@ -8581,7 +8591,7 @@
             },
             {
               "date": "2026-09-21",
-              "value": 8366,
+              "value": 8283,
               "gain": 0
             }
           ]
@@ -9594,8 +9604,8 @@
             },
             {
               "date": "2026-09-21",
-              "value": 11731,
-              "gain": 8502
+              "value": 14182,
+              "gain": 10953
             }
           ]
         },
@@ -10489,7 +10499,18 @@
             },
             {
               "date": "2026-09-21",
-              "value": 7940,
+              "value": 7860,
+              "gain": 0
+            }
+          ]
+        },
+        "Simp": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000006329.png",
+          "history": [
+            {
+              "date": "2026-09-21",
+              "value": 8314,
               "gain": 0
             }
           ]
@@ -10497,5 +10518,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-21T18:32:17.841Z"
+  "updatedAt": "2026-09-21T22:30:07.886Z"
 }
