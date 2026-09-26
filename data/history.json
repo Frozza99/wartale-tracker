@@ -9490,7 +9490,7 @@
             },
             {
               "date": "2026-09-26",
-              "value": 9460,
+              "value": 1258,
               "gain": 0
             }
           ]
@@ -11280,9 +11280,108 @@
               "gain": 0
             }
           ]
+        },
+        "-♥-": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000035699.png",
+          "history": [
+            {
+              "date": "2026-09-26",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "-Aden": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000032354.png",
+          "history": [
+            {
+              "date": "2026-09-26",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "-Akali": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-09-26",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "-Anan-": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037238.png",
+          "history": [
+            {
+              "date": "2026-09-26",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "-Auron-": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000032831.png",
+          "history": [
+            {
+              "date": "2026-09-26",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "-BaniYasi-": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-09-26",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "-Black.Bourbon-": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037570.png",
+          "history": [
+            {
+              "date": "2026-09-26",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "-BoOoM": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000035916.png",
+          "history": [
+            {
+              "date": "2026-09-26",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "-Boss_Hunter-": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-09-26",
+              "value": 0,
+              "gain": 0
+            }
+          ]
         }
       }
     }
   },
-  "updatedAt": "2026-09-26T16:36:49.125Z"
+  "updatedAt": "2026-09-26T19:35:31.430Z"
 }
