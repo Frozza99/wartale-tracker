@@ -6780,6 +6780,11 @@
               "date": "2026-09-26",
               "value": 7563,
               "gain": 469
+            },
+            {
+              "date": "2026-09-27",
+              "value": 569,
+              "gain": 0
             }
           ]
         },
@@ -7635,8 +7640,8 @@
             },
             {
               "date": "2026-09-27",
-              "value": 4100,
-              "gain": 0
+              "value": 5007,
+              "gain": 865
             }
           ]
         },
@@ -7896,8 +7901,8 @@
             },
             {
               "date": "2026-09-27",
-              "value": 386,
-              "gain": 0
+              "value": 2303,
+              "gain": 1913
             }
           ]
         },
@@ -8774,7 +8779,7 @@
         },
         "Imprudente": {
           "class": "Desconhecida",
-          "clanIconUrl": "https://user.wartale.com/clanicons/1000037766.png",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000006329.png",
           "history": [
             {
               "date": "2026-08-05",
@@ -8785,6 +8790,11 @@
               "date": "2026-08-22",
               "value": 329,
               "gain": 0
+            },
+            {
+              "date": "2026-09-27",
+              "value": 2302,
+              "gain": 1973
             }
           ]
         },
@@ -9605,7 +9615,7 @@
             },
             {
               "date": "2026-09-27",
-              "value": 1344,
+              "value": 1317,
               "gain": 0
             }
           ]
@@ -10462,6 +10472,11 @@
               "date": "2026-09-26",
               "value": 13407,
               "gain": 0
+            },
+            {
+              "date": "2026-09-27",
+              "value": 1193,
+              "gain": 0
             }
           ]
         },
@@ -11022,6 +11037,11 @@
               "date": "2026-09-20",
               "value": 2126,
               "gain": 0
+            },
+            {
+              "date": "2026-09-27",
+              "value": 1391,
+              "gain": 0
             }
           ]
         },
@@ -11526,7 +11546,7 @@
             },
             {
               "date": "2026-09-27",
-              "value": 3421,
+              "value": 3353,
               "gain": 0
             }
           ]
@@ -11606,9 +11626,31 @@
               "gain": 0
             }
           ]
+        },
+        "𝓜𝓲𝓽-": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000034842.png",
+          "history": [
+            {
+              "date": "2026-09-27",
+              "value": 1859,
+              "gain": 0
+            }
+          ]
+        },
+        "Shadow_": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000035930.png",
+          "history": [
+            {
+              "date": "2026-09-27",
+              "value": 638,
+              "gain": 0
+            }
+          ]
         }
       }
     }
   },
-  "updatedAt": "2026-09-27T00:49:32.059Z"
+  "updatedAt": "2026-09-27T06:23:20.822Z"
 }
