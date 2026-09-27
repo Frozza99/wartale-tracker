@@ -7640,8 +7640,8 @@
             },
             {
               "date": "2026-09-27",
-              "value": 5324,
-              "gain": 1182
+              "value": 5400,
+              "gain": 1258
             }
           ]
         },
@@ -8356,6 +8356,11 @@
               "date": "2026-09-19",
               "value": 5016,
               "gain": 0
+            },
+            {
+              "date": "2026-09-27",
+              "value": 6704,
+              "gain": 1688
             }
           ]
         },
@@ -8397,6 +8402,11 @@
               "date": "2026-09-14",
               "value": 4453,
               "gain": 0
+            },
+            {
+              "date": "2026-09-27",
+              "value": 4320,
+              "gain": 0
             }
           ]
         },
@@ -8413,6 +8423,11 @@
               "date": "2026-08-16",
               "value": 6087,
               "gain": 16
+            },
+            {
+              "date": "2026-09-27",
+              "value": 4601,
+              "gain": 0
             }
           ]
         },
@@ -9615,8 +9630,8 @@
             },
             {
               "date": "2026-09-27",
-              "value": 1291,
-              "gain": 0
+              "value": 4858,
+              "gain": 3500
             }
           ]
         },
@@ -10129,6 +10144,11 @@
               "date": "2026-09-14",
               "value": 4441,
               "gain": 0
+            },
+            {
+              "date": "2026-09-27",
+              "value": 5107,
+              "gain": 666
             }
           ]
         },
@@ -11537,7 +11557,7 @@
         },
         "FaltaHumilldade": {
           "class": "Desconhecida",
-          "clanIconUrl": "https://user.wartale.com/clanicons/1000035387.png",
+          "clanIconUrl": null,
           "history": [
             {
               "date": "2026-09-26",
@@ -11546,8 +11566,8 @@
             },
             {
               "date": "2026-09-27",
-              "value": 3286,
-              "gain": 0
+              "value": 5603,
+              "gain": 2148
             }
           ]
         },
@@ -11648,9 +11668,42 @@
               "gain": 0
             }
           ]
+        },
+        "Barrager": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037048.png",
+          "history": [
+            {
+              "date": "2026-09-27",
+              "value": 6035,
+              "gain": 0
+            }
+          ]
+        },
+        "Veldora™": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037048.png",
+          "history": [
+            {
+              "date": "2026-09-27",
+              "value": 4459,
+              "gain": 0
+            }
+          ]
+        },
+        "Yosha!": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037048.png",
+          "history": [
+            {
+              "date": "2026-09-27",
+              "value": 4428,
+              "gain": 0
+            }
+          ]
         }
       }
     }
   },
-  "updatedAt": "2026-09-27T12:20:29.013Z"
+  "updatedAt": "2026-09-27T17:11:10.430Z"
 }
