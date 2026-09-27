@@ -7640,8 +7640,8 @@
             },
             {
               "date": "2026-09-27",
-              "value": 5400,
-              "gain": 1258
+              "value": 5346,
+              "gain": 1204
             }
           ]
         },
@@ -8405,7 +8405,7 @@
             },
             {
               "date": "2026-09-27",
-              "value": 4320,
+              "value": 4277,
               "gain": 0
             }
           ]
@@ -9630,8 +9630,8 @@
             },
             {
               "date": "2026-09-27",
-              "value": 4858,
-              "gain": 3500
+              "value": 4925,
+              "gain": 3567
             }
           ]
         },
@@ -10147,8 +10147,8 @@
             },
             {
               "date": "2026-09-27",
-              "value": 5107,
-              "gain": 666
+              "value": 5056,
+              "gain": 615
             }
           ]
         },
@@ -11557,7 +11557,7 @@
         },
         "FaltaHumilldade": {
           "class": "Desconhecida",
-          "clanIconUrl": null,
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000035387.png",
           "history": [
             {
               "date": "2026-09-26",
@@ -11675,7 +11675,7 @@
           "history": [
             {
               "date": "2026-09-27",
-              "value": 6035,
+              "value": 5975,
               "gain": 0
             }
           ]
@@ -11697,7 +11697,7 @@
           "history": [
             {
               "date": "2026-09-27",
-              "value": 4428,
+              "value": 4383,
               "gain": 0
             }
           ]
@@ -11705,5 +11705,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-27T17:11:10.430Z"
+  "updatedAt": "2026-09-27T20:19:40.415Z"
 }
