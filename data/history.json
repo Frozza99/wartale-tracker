@@ -8096,8 +8096,8 @@
             },
             {
               "date": "2026-10-03",
-              "value": 10019,
-              "gain": 218
+              "value": 458,
+              "gain": 0
             }
           ]
         },
@@ -11618,6 +11618,11 @@
               "date": "2026-09-20",
               "value": 140,
               "gain": 0
+            },
+            {
+              "date": "2026-10-03",
+              "value": 881,
+              "gain": 741
             }
           ]
         },
@@ -12250,9 +12255,75 @@
               "gain": 0
             }
           ]
+        },
+        "​𓆩𓆪Akasha​𓆩𓆪": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-10-03",
+              "value": 963,
+              "gain": 0
+            }
+          ]
+        },
+        "Levi.Ackerman": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000000002.png",
+          "history": [
+            {
+              "date": "2026-10-03",
+              "value": 887,
+              "gain": 0
+            }
+          ]
+        },
+        "Salshisa1": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000035387.png",
+          "history": [
+            {
+              "date": "2026-10-03",
+              "value": 690,
+              "gain": 0
+            }
+          ]
+        },
+        "HadesGT": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000035107.png",
+          "history": [
+            {
+              "date": "2026-10-03",
+              "value": 286,
+              "gain": 0
+            }
+          ]
+        },
+        "Roxedo1": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000035387.png",
+          "history": [
+            {
+              "date": "2026-10-03",
+              "value": 162,
+              "gain": 0
+            }
+          ]
+        },
+        "MimiGT": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000035107.png",
+          "history": [
+            {
+              "date": "2026-10-03",
+              "value": 132,
+              "gain": 0
+            }
+          ]
         }
       }
     }
   },
-  "updatedAt": "2026-10-03T19:06:20.160Z"
+  "updatedAt": "2026-10-03T22:20:26.168Z"
 }
