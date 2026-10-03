@@ -6918,8 +6918,8 @@
             },
             {
               "date": "2026-10-03",
-              "value": 7644,
-              "gain": 205
+              "value": 323,
+              "gain": 0
             }
           ]
         },
@@ -9925,8 +9925,8 @@
             },
             {
               "date": "2026-10-03",
-              "value": 8354,
-              "gain": 68
+              "value": 185,
+              "gain": 0
             }
           ]
         },
@@ -11885,6 +11885,11 @@
               "date": "2026-09-26",
               "value": 0,
               "gain": 0
+            },
+            {
+              "date": "2026-10-03",
+              "value": 0,
+              "gain": 0
             }
           ]
         },
@@ -11894,6 +11899,11 @@
           "history": [
             {
               "date": "2026-09-26",
+              "value": 0,
+              "gain": 0
+            },
+            {
+              "date": "2026-10-03",
               "value": 0,
               "gain": 0
             }
@@ -11918,6 +11928,11 @@
               "date": "2026-09-26",
               "value": 0,
               "gain": 0
+            },
+            {
+              "date": "2026-10-03",
+              "value": 0,
+              "gain": 0
             }
           ]
         },
@@ -11927,6 +11942,11 @@
           "history": [
             {
               "date": "2026-09-26",
+              "value": 0,
+              "gain": 0
+            },
+            {
+              "date": "2026-10-03",
               "value": 0,
               "gain": 0
             }
@@ -12186,9 +12206,53 @@
               "gain": 0
             }
           ]
+        },
+        "-晴天-": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-10-03",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "-Amilybowpower-": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000034969.png",
+          "history": [
+            {
+              "date": "2026-10-03",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "-Arrow2-": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-10-03",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "-Arrow4-": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-10-03",
+              "value": 0,
+              "gain": 0
+            }
+          ]
         }
       }
     }
   },
-  "updatedAt": "2026-10-03T15:55:24.425Z"
+  "updatedAt": "2026-10-03T19:06:20.160Z"
 }
