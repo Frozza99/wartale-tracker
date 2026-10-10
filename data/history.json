@@ -11803,7 +11803,7 @@
             },
             {
               "date": "2026-10-10",
-              "value": 1717,
+              "value": 2748,
               "gain": 0
             }
           ]
@@ -12945,7 +12945,7 @@
           "history": [
             {
               "date": "2026-10-10",
-              "value": 1786,
+              "value": 4487,
               "gain": 0
             }
           ]
@@ -12956,7 +12956,7 @@
           "history": [
             {
               "date": "2026-10-10",
-              "value": 942,
+              "value": 710,
               "gain": 0
             }
           ]
@@ -13037,9 +13037,42 @@
               "gain": 0
             }
           ]
+        },
+        "Marcelo": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000006329.png",
+          "history": [
+            {
+              "date": "2026-10-10",
+              "value": 862,
+              "gain": 0
+            }
+          ]
+        },
+        "ChegoOcafetaO": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000036613.png",
+          "history": [
+            {
+              "date": "2026-10-10",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "chienthan37": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-10-10",
+              "value": 0,
+              "gain": 0
+            }
+          ]
         }
       }
     }
   },
-  "updatedAt": "2026-10-10T17:41:05.786Z"
+  "updatedAt": "2026-10-10T21:18:57.058Z"
 }
