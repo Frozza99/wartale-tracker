@@ -11803,8 +11803,8 @@
             },
             {
               "date": "2026-10-10",
-              "value": 11575,
-              "gain": 277
+              "value": 1717,
+              "gain": 0
             }
           ]
         },
@@ -12938,9 +12938,108 @@
               "gain": 2322
             }
           ]
+        },
+        "Black✞Reaper": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000035387.png",
+          "history": [
+            {
+              "date": "2026-10-10",
+              "value": 1786,
+              "gain": 0
+            }
+          ]
+        },
+        "Chazin": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-10-10",
+              "value": 942,
+              "gain": 0
+            }
+          ]
+        },
+        "CherryBlossom♥": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037489.png",
+          "history": [
+            {
+              "date": "2026-10-10",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "child": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-10-10",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "ChiqChiqBahia": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-10-10",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "Chrisza": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000036864.png",
+          "history": [
+            {
+              "date": "2026-10-10",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "ChuMy": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000035295.png",
+          "history": [
+            {
+              "date": "2026-10-10",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "Chvck": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000034375.png",
+          "history": [
+            {
+              "date": "2026-10-10",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "CiaLost": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000035387.png",
+          "history": [
+            {
+              "date": "2026-10-10",
+              "value": 0,
+              "gain": 0
+            }
+          ]
         }
       }
     }
   },
-  "updatedAt": "2026-10-10T12:54:07.095Z"
+  "updatedAt": "2026-10-10T17:41:05.786Z"
 }
