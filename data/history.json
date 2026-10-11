@@ -9627,6 +9627,11 @@
               "date": "2026-08-16",
               "value": 3325,
               "gain": 1675
+            },
+            {
+              "date": "2026-10-11",
+              "value": 151,
+              "gain": 0
             }
           ]
         },
@@ -11828,7 +11833,7 @@
             },
             {
               "date": "2026-10-11",
-              "value": 2721,
+              "value": 2666,
               "gain": 0
             }
           ]
@@ -12948,7 +12953,7 @@
             },
             {
               "date": "2026-10-11",
-              "value": 555,
+              "value": 544,
               "gain": 0
             }
           ]
@@ -12980,7 +12985,7 @@
             },
             {
               "date": "2026-10-11",
-              "value": 4442,
+              "value": 4353,
               "gain": 0
             }
           ]
@@ -12996,7 +13001,7 @@
             },
             {
               "date": "2026-10-11",
-              "value": 703,
+              "value": 689,
               "gain": 0
             }
           ]
@@ -13089,7 +13094,7 @@
             },
             {
               "date": "2026-10-11",
-              "value": 853,
+              "value": 836,
               "gain": 0
             }
           ]
@@ -13122,7 +13127,7 @@
           "history": [
             {
               "date": "2026-10-11",
-              "value": 387,
+              "value": 379,
               "gain": 0
             }
           ]
@@ -13170,9 +13175,42 @@
               "gain": 0
             }
           ]
+        },
+        "-ME-": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000035662.png",
+          "history": [
+            {
+              "date": "2026-10-11",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "-Merlina-": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000034969.png",
+          "history": [
+            {
+              "date": "2026-10-11",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "-Mineroza-": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-10-11",
+              "value": 0,
+              "gain": 0
+            }
+          ]
         }
       }
     }
   },
-  "updatedAt": "2026-10-11T00:21:12.099Z"
+  "updatedAt": "2026-10-11T06:12:53.339Z"
 }
