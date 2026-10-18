@@ -13733,7 +13733,7 @@
             },
             {
               "date": "2026-10-18",
-              "value": 974,
+              "value": 964,
               "gain": 0
             }
           ]
@@ -13749,7 +13749,7 @@
             },
             {
               "date": "2026-10-18",
-              "value": 576,
+              "value": 571,
               "gain": 0
             }
           ]
@@ -13765,7 +13765,7 @@
             },
             {
               "date": "2026-10-18",
-              "value": 355,
+              "value": 351,
               "gain": 0
             }
           ]
@@ -13781,7 +13781,7 @@
             },
             {
               "date": "2026-10-18",
-              "value": 34,
+              "value": 33,
               "gain": 0
             }
           ]
@@ -13877,9 +13877,20 @@
               "gain": 0
             }
           ]
+        },
+        "LORDofMAGIC": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000035406.png",
+          "history": [
+            {
+              "date": "2026-10-18",
+              "value": 0,
+              "gain": 0
+            }
+          ]
         }
       }
     }
   },
-  "updatedAt": "2026-10-18T00:10:34.205Z"
+  "updatedAt": "2026-10-18T04:57:54.674Z"
 }
