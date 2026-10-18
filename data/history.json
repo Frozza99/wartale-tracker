@@ -8217,7 +8217,7 @@
             },
             {
               "date": "2026-10-18",
-              "value": 4447,
+              "value": 4403,
               "gain": 0
             }
           ]
@@ -8523,7 +8523,7 @@
             },
             {
               "date": "2026-10-18",
-              "value": 4637,
+              "value": 4591,
               "gain": 0
             }
           ]
@@ -12402,7 +12402,7 @@
             },
             {
               "date": "2026-10-18",
-              "value": 6892,
+              "value": 6823,
               "gain": 0
             }
           ]
@@ -13056,7 +13056,7 @@
         },
         "𝓜𝓲𝓽-": {
           "class": "Desconhecida",
-          "clanIconUrl": null,
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000034842.png",
           "history": [
             {
               "date": "2026-09-27",
@@ -13948,5 +13948,5 @@
       }
     }
   },
-  "updatedAt": "2026-10-18T16:47:40.241Z"
+  "updatedAt": "2026-10-18T19:17:41.785Z"
 }
