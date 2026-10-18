@@ -8217,7 +8217,7 @@
             },
             {
               "date": "2026-10-18",
-              "value": 4492,
+              "value": 4447,
               "gain": 0
             }
           ]
@@ -8523,7 +8523,7 @@
             },
             {
               "date": "2026-10-18",
-              "value": 4684,
+              "value": 4637,
               "gain": 0
             }
           ]
@@ -10038,7 +10038,7 @@
         },
         "Khanh♫Khấm♫Khá": {
           "class": "Desconhecida",
-          "clanIconUrl": "https://user.wartale.com/clanicons/1000037943.png",
+          "clanIconUrl": null,
           "history": [
             {
               "date": "2026-08-09",
@@ -10118,6 +10118,11 @@
             {
               "date": "2026-10-17",
               "value": 11769,
+              "gain": 0
+            },
+            {
+              "date": "2026-10-18",
+              "value": 3928,
               "gain": 0
             }
           ]
@@ -10825,8 +10830,8 @@
             },
             {
               "date": "2026-10-18",
-              "value": 4285,
-              "gain": 996
+              "value": 4371,
+              "gain": 1082
             }
           ]
         },
@@ -11656,6 +11661,11 @@
               "date": "2026-10-16",
               "value": 12085,
               "gain": 0
+            },
+            {
+              "date": "2026-10-18",
+              "value": 4209,
+              "gain": 0
             }
           ]
         },
@@ -12392,7 +12402,7 @@
             },
             {
               "date": "2026-10-18",
-              "value": 6961,
+              "value": 6892,
               "gain": 0
             }
           ]
@@ -13135,7 +13145,7 @@
             },
             {
               "date": "2026-10-18",
-              "value": 4080,
+              "value": 5517,
               "gain": 0
             }
           ]
@@ -13476,7 +13486,7 @@
             },
             {
               "date": "2026-10-18",
-              "value": 7673,
+              "value": 7712,
               "gain": 0
             }
           ]
@@ -13775,7 +13785,7 @@
         },
         "™xBerT™": {
           "class": "Desconhecida",
-          "clanIconUrl": "https://user.wartale.com/clanicons/1000037550.png",
+          "clanIconUrl": null,
           "history": [
             {
               "date": "2026-10-17",
@@ -13784,8 +13794,8 @@
             },
             {
               "date": "2026-10-18",
-              "value": 571,
-              "gain": 0
+              "value": 4019,
+              "gain": 3437
             }
           ]
         },
@@ -13930,7 +13940,7 @@
           "history": [
             {
               "date": "2026-10-18",
-              "value": 3541,
+              "value": 3779,
               "gain": 0
             }
           ]
@@ -13938,5 +13948,5 @@
       }
     }
   },
-  "updatedAt": "2026-10-18T13:28:51.196Z"
+  "updatedAt": "2026-10-18T16:47:40.241Z"
 }
