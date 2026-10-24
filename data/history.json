@@ -14392,9 +14392,108 @@
               "gain": 0
             }
           ]
+        },
+        "ℭ𝔬𝔦𝔠𝔢": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-10-24",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "ℳ𝓲𝓷𝓵": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-10-24",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "光空": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037830.png",
+          "history": [
+            {
+              "date": "2026-10-24",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "ㅤㅤMerlinㅤㅤ": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000034695.png",
+          "history": [
+            {
+              "date": "2026-10-24",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "ㅤHảiㅤㅤ": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000036048.png",
+          "history": [
+            {
+              "date": "2026-10-24",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "ㅤKumaㅤ": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000036028.png",
+          "history": [
+            {
+              "date": "2026-10-24",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "←KsKiller→": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-10-24",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "冷如霜": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000035672.png",
+          "history": [
+            {
+              "date": "2026-10-24",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "冷霜子": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000035672.png",
+          "history": [
+            {
+              "date": "2026-10-24",
+              "value": 0,
+              "gain": 0
+            }
+          ]
         }
       }
     }
   },
-  "updatedAt": "2026-10-24T16:49:52.808Z"
+  "updatedAt": "2026-10-24T19:18:03.135Z"
 }
