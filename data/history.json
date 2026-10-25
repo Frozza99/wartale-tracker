@@ -9001,7 +9001,7 @@
             },
             {
               "date": "2026-10-25",
-              "value": 2673,
+              "value": 3071,
               "gain": 0
             }
           ]
@@ -9752,7 +9752,7 @@
             },
             {
               "date": "2026-10-25",
-              "value": 3632,
+              "value": 4433,
               "gain": 0
             }
           ]
@@ -11320,7 +11320,7 @@
             },
             {
               "date": "2026-10-25",
-              "value": 2414,
+              "value": 2466,
               "gain": 0
             }
           ]
@@ -11854,7 +11854,7 @@
             },
             {
               "date": "2026-10-25",
-              "value": 2035,
+              "value": 5838,
               "gain": 0
             }
           ]
@@ -12262,8 +12262,8 @@
             },
             {
               "date": "2026-10-25",
-              "value": 7545,
-              "gain": 0
+              "value": 8431,
+              "gain": 145
             }
           ]
         },
@@ -12789,7 +12789,7 @@
             },
             {
               "date": "2026-10-25",
-              "value": 4354,
+              "value": 4310,
               "gain": 0
             }
           ]
@@ -13973,7 +13973,7 @@
             },
             {
               "date": "2026-10-25",
-              "value": 3718,
+              "value": 4037,
               "gain": 0
             }
           ]
@@ -14316,8 +14316,8 @@
             },
             {
               "date": "2026-10-25",
-              "value": 2040,
-              "gain": 1938
+              "value": 7072,
+              "gain": 6970
             }
           ]
         },
@@ -14675,9 +14675,31 @@
               "gain": 0
             }
           ]
+        },
+        "TheFameMons†er": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000006329.png",
+          "history": [
+            {
+              "date": "2026-10-25",
+              "value": 2258,
+              "gain": 0
+            }
+          ]
+        },
+        "Negão": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037048.png",
+          "history": [
+            {
+              "date": "2026-10-25",
+              "value": 2018,
+              "gain": 0
+            }
+          ]
         }
       }
     }
   },
-  "updatedAt": "2026-10-25T14:29:58.623Z"
+  "updatedAt": "2026-10-25T17:48:01.926Z"
 }
