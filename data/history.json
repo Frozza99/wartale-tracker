@@ -7881,6 +7881,11 @@
               "date": "2026-09-26",
               "value": 6448,
               "gain": 0
+            },
+            {
+              "date": "2026-10-31",
+              "value": 0,
+              "gain": 0
             }
           ]
         },
@@ -11586,8 +11591,8 @@
             },
             {
               "date": "2026-10-31",
-              "value": 32697,
-              "gain": 5085
+              "value": 137,
+              "gain": 0
             }
           ]
         },
@@ -15159,9 +15164,97 @@
               "gain": 0
             }
           ]
+        },
+        "MisterMario": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000000002.png",
+          "history": [
+            {
+              "date": "2026-10-31",
+              "value": 132,
+              "gain": 0
+            }
+          ]
+        },
+        "Mithrandyr": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037595.png",
+          "history": [
+            {
+              "date": "2026-10-31",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "mob.Freitas": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-10-31",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "MoHziNha": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037907.png",
+          "history": [
+            {
+              "date": "2026-10-31",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "Moliwen": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-10-31",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "MonstrinhoRX": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000029962.png",
+          "history": [
+            {
+              "date": "2026-10-31",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "Moonner": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-10-31",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "Morenadobundao": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-10-31",
+              "value": 0,
+              "gain": 0
+            }
+          ]
         }
       }
     }
   },
-  "updatedAt": "2026-10-31T15:58:11.916Z"
+  "updatedAt": "2026-10-31T19:52:35.645Z"
 }
