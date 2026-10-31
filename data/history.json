@@ -15252,9 +15252,31 @@
               "gain": 0
             }
           ]
+        },
+        "MiTaya": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-10-31",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "MonicaSanthiago": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-10-31",
+              "value": 0,
+              "gain": 0
+            }
+          ]
         }
       }
     }
   },
-  "updatedAt": "2026-10-31T19:52:35.645Z"
+  "updatedAt": "2026-10-31T23:09:45.939Z"
 }
