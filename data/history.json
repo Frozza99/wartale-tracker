@@ -9141,6 +9141,11 @@
               "date": "2026-09-19",
               "value": 0,
               "gain": 0
+            },
+            {
+              "date": "2026-11-07",
+              "value": 0,
+              "gain": 0
             }
           ]
         },
@@ -9173,7 +9178,7 @@
         },
         "+1.Res.cd": {
           "class": "Desconhecida",
-          "clanIconUrl": "https://user.wartale.com/clanicons/1000035643.png",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037943.png",
           "history": [
             {
               "date": "2026-08-01",
@@ -9197,6 +9202,11 @@
             },
             {
               "date": "2026-09-19",
+              "value": 0,
+              "gain": 0
+            },
+            {
+              "date": "2026-11-07",
               "value": 0,
               "gain": 0
             }
@@ -9266,6 +9276,11 @@
             },
             {
               "date": "2026-09-19",
+              "value": 0,
+              "gain": 0
+            },
+            {
+              "date": "2026-11-07",
               "value": 0,
               "gain": 0
             }
@@ -10164,6 +10179,11 @@
             },
             {
               "date": "2026-09-19",
+              "value": 0,
+              "gain": 0
+            },
+            {
+              "date": "2026-11-07",
               "value": 0,
               "gain": 0
             }
@@ -13604,10 +13624,15 @@
         },
         "-[O]bito": {
           "class": "Desconhecida",
-          "clanIconUrl": "https://user.wartale.com/clanicons/1000037018.png",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037906.png",
           "history": [
             {
               "date": "2026-09-19",
+              "value": 0,
+              "gain": 0
+            },
+            {
+              "date": "2026-11-07",
               "value": 0,
               "gain": 0
             }
@@ -15816,9 +15841,64 @@
               "gain": 0
             }
           ]
+        },
+        "$Steven$": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000036675.png",
+          "history": [
+            {
+              "date": "2026-11-07",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "''Tuổi.17.Anh.Có.Em''": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037211.png",
+          "history": [
+            {
+              "date": "2026-11-07",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "(+.+)": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000035923.png",
+          "history": [
+            {
+              "date": "2026-11-07",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "-[S]mooth[C]riminal-": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037747.png",
+          "history": [
+            {
+              "date": "2026-11-07",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "-603-": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-11-07",
+              "value": 0,
+              "gain": 0
+            }
+          ]
         }
       }
     }
   },
-  "updatedAt": "2026-11-07T13:26:22.460Z"
+  "updatedAt": "2026-11-07T18:13:05.243Z"
 }
