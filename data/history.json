@@ -7689,6 +7689,11 @@
               "date": "2026-11-05",
               "value": 2791,
               "gain": 0
+            },
+            {
+              "date": "2026-11-07",
+              "value": 1140,
+              "gain": 0
             }
           ]
         },
@@ -9081,7 +9086,7 @@
             },
             {
               "date": "2026-11-07",
-              "value": 5431,
+              "value": 697,
               "gain": 0
             }
           ]
@@ -15307,6 +15312,11 @@
               "date": "2026-10-25",
               "value": 328,
               "gain": 328
+            },
+            {
+              "date": "2026-11-07",
+              "value": 283,
+              "gain": 0
             }
           ]
         },
@@ -15896,9 +15906,86 @@
               "gain": 0
             }
           ]
+        },
+        "Turbina": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037906.png",
+          "history": [
+            {
+              "date": "2026-11-07",
+              "value": 261,
+              "gain": 0
+            }
+          ]
+        },
+        "Turmeric": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037953.png",
+          "history": [
+            {
+              "date": "2026-11-07",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "TwoFace": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037448.png",
+          "history": [
+            {
+              "date": "2026-11-07",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "Tylenol": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-11-07",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "هنقرستيشن": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037716.png",
+          "history": [
+            {
+              "date": "2026-11-07",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "Uóxitu": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037954.png",
+          "history": [
+            {
+              "date": "2026-11-07",
+              "value": 0,
+              "gain": 0
+            }
+          ]
+        },
+        "Uaejoker": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-11-07",
+              "value": 0,
+              "gain": 0
+            }
+          ]
         }
       }
     }
   },
-  "updatedAt": "2026-11-07T18:13:05.243Z"
+  "updatedAt": "2026-11-07T22:11:46.711Z"
 }
