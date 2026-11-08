@@ -8805,8 +8805,8 @@
             },
             {
               "date": "2026-11-08",
-              "value": 4174,
-              "gain": 1416
+              "value": 4091,
+              "gain": 1333
             }
           ]
         },
@@ -9111,8 +9111,8 @@
             },
             {
               "date": "2026-11-08",
-              "value": 4918,
-              "gain": 4221
+              "value": 4820,
+              "gain": 4123
             }
           ]
         },
@@ -10686,7 +10686,7 @@
         },
         "Khanh♫Khấm♫Khá": {
           "class": "Desconhecida",
-          "clanIconUrl": "https://user.wartale.com/clanicons/1000037943.png",
+          "clanIconUrl": null,
           "history": [
             {
               "date": "2026-08-09",
@@ -10800,7 +10800,7 @@
             },
             {
               "date": "2026-11-08",
-              "value": 3620,
+              "value": 4594,
               "gain": 0
             }
           ]
@@ -12009,7 +12009,7 @@
             },
             {
               "date": "2026-11-08",
-              "value": 5050,
+              "value": 4858,
               "gain": 0
             }
           ]
@@ -12617,7 +12617,7 @@
             },
             {
               "date": "2026-11-08",
-              "value": 6932,
+              "value": 7567,
               "gain": 0
             }
           ]
@@ -13560,8 +13560,8 @@
             },
             {
               "date": "2026-11-08",
-              "value": 5751,
-              "gain": 1729
+              "value": 5637,
+              "gain": 1615
             }
           ]
         },
@@ -14879,8 +14879,8 @@
             },
             {
               "date": "2026-11-08",
-              "value": 5378,
-              "gain": 0
+              "value": 6033,
+              "gain": 612
             }
           ]
         },
@@ -15448,8 +15448,8 @@
             },
             {
               "date": "2026-11-08",
-              "value": 3330,
-              "gain": 519
+              "value": 3593,
+              "gain": 782
             }
           ]
         },
@@ -16085,18 +16085,18 @@
           "history": [
             {
               "date": "2026-11-08",
-              "value": 3671,
+              "value": 3598,
               "gain": 0
             }
           ]
         },
         "-Solace-": {
           "class": "Desconhecida",
-          "clanIconUrl": "https://user.wartale.com/clanicons/1000037943.png",
+          "clanIconUrl": null,
           "history": [
             {
               "date": "2026-11-08",
-              "value": 3228,
+              "value": 3801,
               "gain": 0
             }
           ]
@@ -16104,5 +16104,5 @@
       }
     }
   },
-  "updatedAt": "2026-11-08T08:42:49.774Z"
+  "updatedAt": "2026-11-08T15:50:50.670Z"
 }
