@@ -8509,11 +8509,6 @@
           "clanIconUrl": "https://user.wartale.com/clanicons/1000034842.png",
           "history": [
             {
-              "date": "2026-08-25",
-              "value": 19759,
-              "gain": 8041
-            },
-            {
               "date": "2026-08-26",
               "value": 21631,
               "gain": 1872
@@ -8807,6 +8802,11 @@
               "date": "2026-11-01",
               "value": 2758,
               "gain": 0
+            },
+            {
+              "date": "2026-11-08",
+              "value": 4174,
+              "gain": 1416
             }
           ]
         },
@@ -9111,8 +9111,8 @@
             },
             {
               "date": "2026-11-08",
-              "value": 690,
-              "gain": 0
+              "value": 4918,
+              "gain": 4221
             }
           ]
         },
@@ -10797,6 +10797,11 @@
               "date": "2026-10-31",
               "value": 8288,
               "gain": 576
+            },
+            {
+              "date": "2026-11-08",
+              "value": 3620,
+              "gain": 0
             }
           ]
         },
@@ -12001,6 +12006,11 @@
               "date": "2026-10-17",
               "value": 13605,
               "gain": 0
+            },
+            {
+              "date": "2026-11-08",
+              "value": 5050,
+              "gain": 0
             }
           ]
         },
@@ -12604,6 +12614,11 @@
               "date": "2026-10-31",
               "value": 8259,
               "gain": 2481
+            },
+            {
+              "date": "2026-11-08",
+              "value": 6932,
+              "gain": 0
             }
           ]
         },
@@ -13542,6 +13557,11 @@
               "date": "2026-11-07",
               "value": 4022,
               "gain": 0
+            },
+            {
+              "date": "2026-11-08",
+              "value": 5751,
+              "gain": 1729
             }
           ]
         },
@@ -14856,6 +14876,11 @@
               "date": "2026-11-07",
               "value": 5421,
               "gain": 0
+            },
+            {
+              "date": "2026-11-08",
+              "value": 5378,
+              "gain": 0
             }
           ]
         },
@@ -15420,6 +15445,11 @@
               "date": "2026-11-07",
               "value": 2811,
               "gain": 0
+            },
+            {
+              "date": "2026-11-08",
+              "value": 3330,
+              "gain": 519
             }
           ]
         },
@@ -16048,9 +16078,31 @@
               "gain": 0
             }
           ]
+        },
+        "Mr.Arrow": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037943.png",
+          "history": [
+            {
+              "date": "2026-11-08",
+              "value": 3671,
+              "gain": 0
+            }
+          ]
+        },
+        "-Solace-": {
+          "class": "Desconhecida",
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037943.png",
+          "history": [
+            {
+              "date": "2026-11-08",
+              "value": 3228,
+              "gain": 0
+            }
+          ]
         }
       }
     }
   },
-  "updatedAt": "2026-11-08T01:43:00.606Z"
+  "updatedAt": "2026-11-08T08:42:49.774Z"
 }
