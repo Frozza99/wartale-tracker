@@ -9,11 +9,6 @@
           "clanIconUrl": null,
           "history": [
             {
-              "date": "2026-09-17",
-              "value": 10,
-              "gain": 0
-            },
-            {
               "date": "2026-09-18",
               "value": 10,
               "gain": 0
@@ -305,6 +300,11 @@
             },
             {
               "date": "2026-11-15",
+              "value": 10,
+              "gain": 0
+            },
+            {
+              "date": "2026-11-16",
               "value": 10,
               "gain": 0
             }
@@ -315,11 +315,6 @@
           "clanIconUrl": null,
           "history": [
             {
-              "date": "2026-09-17",
-              "value": 10,
-              "gain": 0
-            },
-            {
               "date": "2026-09-18",
               "value": 10,
               "gain": 0
@@ -611,6 +606,11 @@
             },
             {
               "date": "2026-11-15",
+              "value": 10,
+              "gain": 0
+            },
+            {
+              "date": "2026-11-16",
               "value": 10,
               "gain": 0
             }
@@ -621,11 +621,6 @@
           "clanIconUrl": null,
           "history": [
             {
-              "date": "2026-09-17",
-              "value": 10,
-              "gain": 0
-            },
-            {
               "date": "2026-09-18",
               "value": 10,
               "gain": 0
@@ -917,6 +912,11 @@
             },
             {
               "date": "2026-11-15",
+              "value": 10,
+              "gain": 0
+            },
+            {
+              "date": "2026-11-16",
               "value": 10,
               "gain": 0
             }
@@ -927,11 +927,6 @@
           "clanIconUrl": null,
           "history": [
             {
-              "date": "2026-09-17",
-              "value": 10,
-              "gain": 0
-            },
-            {
               "date": "2026-09-18",
               "value": 10,
               "gain": 0
@@ -1223,6 +1218,11 @@
             },
             {
               "date": "2026-11-15",
+              "value": 10,
+              "gain": 0
+            },
+            {
+              "date": "2026-11-16",
               "value": 10,
               "gain": 0
             }
@@ -1233,11 +1233,6 @@
           "clanIconUrl": "https://user.wartale.com/clanicons/1000035643.png",
           "history": [
             {
-              "date": "2026-09-17",
-              "value": 10,
-              "gain": 0
-            },
-            {
               "date": "2026-09-18",
               "value": 10,
               "gain": 0
@@ -1529,6 +1524,11 @@
             },
             {
               "date": "2026-11-15",
+              "value": 10,
+              "gain": 0
+            },
+            {
+              "date": "2026-11-16",
               "value": 10,
               "gain": 0
             }
@@ -1539,11 +1539,6 @@
           "clanIconUrl": null,
           "history": [
             {
-              "date": "2026-09-17",
-              "value": 10,
-              "gain": 0
-            },
-            {
               "date": "2026-09-18",
               "value": 10,
               "gain": 0
@@ -1835,6 +1830,11 @@
             },
             {
               "date": "2026-11-15",
+              "value": 10,
+              "gain": 0
+            },
+            {
+              "date": "2026-11-16",
               "value": 10,
               "gain": 0
             }
@@ -1845,11 +1845,6 @@
           "clanIconUrl": null,
           "history": [
             {
-              "date": "2026-09-17",
-              "value": 10,
-              "gain": 0
-            },
-            {
               "date": "2026-09-18",
               "value": 10,
               "gain": 0
@@ -2141,6 +2136,11 @@
             },
             {
               "date": "2026-11-15",
+              "value": 10,
+              "gain": 0
+            },
+            {
+              "date": "2026-11-16",
               "value": 10,
               "gain": 0
             }
@@ -2575,13 +2575,8 @@
         },
         "-ThìDi-": {
           "class": "Desconhecida",
-          "clanIconUrl": null,
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000038013.png",
           "history": [
-            {
-              "date": "2026-09-17",
-              "value": 10,
-              "gain": 0
-            },
             {
               "date": "2026-09-18",
               "value": 10,
@@ -2874,6 +2869,11 @@
             },
             {
               "date": "2026-11-15",
+              "value": 10,
+              "gain": 0
+            },
+            {
+              "date": "2026-11-16",
               "value": 10,
               "gain": 0
             }
@@ -2940,11 +2940,6 @@
           "clanIconUrl": null,
           "history": [
             {
-              "date": "2026-09-17",
-              "value": 10,
-              "gain": 0
-            },
-            {
               "date": "2026-09-18",
               "value": 10,
               "gain": 0
@@ -3236,6 +3231,11 @@
             },
             {
               "date": "2026-11-15",
+              "value": 10,
+              "gain": 0
+            },
+            {
+              "date": "2026-11-16",
               "value": 10,
               "gain": 0
             }
@@ -3504,6 +3504,11 @@
               "date": "2026-11-15",
               "value": 10,
               "gain": 0
+            },
+            {
+              "date": "2026-11-16",
+              "value": 10,
+              "gain": 0
             }
           ]
         }
@@ -3517,11 +3522,6 @@
           "clanIconUrl": "https://user.wartale.com/clanicons/1000034695.png",
           "history": [
             {
-              "date": "2026-09-17",
-              "value": 10,
-              "gain": 0
-            },
-            {
               "date": "2026-09-18",
               "value": 10,
               "gain": 0
@@ -3813,6 +3813,11 @@
             },
             {
               "date": "2026-11-15",
+              "value": 10,
+              "gain": 0
+            },
+            {
+              "date": "2026-11-16",
               "value": 10,
               "gain": 0
             }
@@ -3823,11 +3828,6 @@
           "clanIconUrl": "https://user.wartale.com/clanicons/1000035295.png",
           "history": [
             {
-              "date": "2026-09-17",
-              "value": 10,
-              "gain": 0
-            },
-            {
               "date": "2026-09-18",
               "value": 10,
               "gain": 0
@@ -4119,6 +4119,11 @@
             },
             {
               "date": "2026-11-15",
+              "value": 10,
+              "gain": 0
+            },
+            {
+              "date": "2026-11-16",
               "value": 10,
               "gain": 0
             }
@@ -4129,11 +4134,6 @@
           "clanIconUrl": null,
           "history": [
             {
-              "date": "2026-09-17",
-              "value": 10,
-              "gain": 0
-            },
-            {
               "date": "2026-09-18",
               "value": 10,
               "gain": 0
@@ -4425,6 +4425,11 @@
             },
             {
               "date": "2026-11-15",
+              "value": 10,
+              "gain": 0
+            },
+            {
+              "date": "2026-11-16",
               "value": 10,
               "gain": 0
             }
@@ -4435,11 +4440,6 @@
           "clanIconUrl": null,
           "history": [
             {
-              "date": "2026-09-17",
-              "value": 10,
-              "gain": 0
-            },
-            {
               "date": "2026-09-18",
               "value": 10,
               "gain": 0
@@ -4731,6 +4731,11 @@
             },
             {
               "date": "2026-11-15",
+              "value": 10,
+              "gain": 0
+            },
+            {
+              "date": "2026-11-16",
               "value": 10,
               "gain": 0
             }
@@ -4741,11 +4746,6 @@
           "clanIconUrl": "https://user.wartale.com/clanicons/1000006329.png",
           "history": [
             {
-              "date": "2026-09-17",
-              "value": 10,
-              "gain": 0
-            },
-            {
               "date": "2026-09-18",
               "value": 10,
               "gain": 0
@@ -5037,6 +5037,11 @@
             },
             {
               "date": "2026-11-15",
+              "value": 10,
+              "gain": 0
+            },
+            {
+              "date": "2026-11-16",
               "value": 10,
               "gain": 0
             }
@@ -5253,11 +5258,6 @@
           "clanIconUrl": "https://user.wartale.com/clanicons/1000037238.png",
           "history": [
             {
-              "date": "2026-09-17",
-              "value": 10,
-              "gain": 0
-            },
-            {
               "date": "2026-09-18",
               "value": 10,
               "gain": 0
@@ -5549,6 +5549,11 @@
             },
             {
               "date": "2026-11-15",
+              "value": 10,
+              "gain": 0
+            },
+            {
+              "date": "2026-11-16",
               "value": 10,
               "gain": 0
             }
@@ -5559,11 +5564,6 @@
           "clanIconUrl": "https://user.wartale.com/clanicons/1000037484.png",
           "history": [
             {
-              "date": "2026-09-17",
-              "value": 10,
-              "gain": 0
-            },
-            {
               "date": "2026-09-18",
               "value": 10,
               "gain": 0
@@ -5855,6 +5855,11 @@
             },
             {
               "date": "2026-11-15",
+              "value": 10,
+              "gain": 0
+            },
+            {
+              "date": "2026-11-16",
               "value": 10,
               "gain": 0
             }
@@ -6958,6 +6963,11 @@
               "date": "2026-11-15",
               "value": 10,
               "gain": 0
+            },
+            {
+              "date": "2026-11-16",
+              "value": 10,
+              "gain": 0
             }
           ]
         },
@@ -7134,6 +7144,11 @@
               "date": "2026-11-15",
               "value": 10,
               "gain": 0
+            },
+            {
+              "date": "2026-11-16",
+              "value": 10,
+              "gain": 0
             }
           ]
         },
@@ -7300,6 +7315,11 @@
             },
             {
               "date": "2026-11-15",
+              "value": 10,
+              "gain": 0
+            },
+            {
+              "date": "2026-11-16",
               "value": 10,
               "gain": 0
             }
@@ -8649,11 +8669,6 @@
           "clanIconUrl": "https://user.wartale.com/clanicons/1000034842.png",
           "history": [
             {
-              "date": "2026-09-03",
-              "value": 10783,
-              "gain": 103
-            },
-            {
               "date": "2026-09-04",
               "value": 13037,
               "gain": 2254
@@ -8947,6 +8962,11 @@
               "date": "2026-11-15",
               "value": 3030,
               "gain": 0
+            },
+            {
+              "date": "2026-11-16",
+              "value": 3000,
+              "gain": 0
             }
           ]
         },
@@ -8954,11 +8974,6 @@
           "class": "Desconhecida",
           "clanIconUrl": "https://user.wartale.com/clanicons/1000034842.png",
           "history": [
-            {
-              "date": "2026-09-14",
-              "value": 10489,
-              "gain": 378
-            },
             {
               "date": "2026-09-15",
               "value": 11168,
@@ -9253,6 +9268,11 @@
               "date": "2026-11-15",
               "value": 6115,
               "gain": 1144
+            },
+            {
+              "date": "2026-11-16",
+              "value": 6054,
+              "gain": 0
             }
           ]
         },
@@ -9579,6 +9599,11 @@
               "date": "2026-11-15",
               "value": 1844,
               "gain": 0
+            },
+            {
+              "date": "2026-11-16",
+              "value": 1825,
+              "gain": 0
             }
           ]
         },
@@ -9851,6 +9876,11 @@
             {
               "date": "2026-11-15",
               "value": 1503,
+              "gain": 0
+            },
+            {
+              "date": "2026-11-16",
+              "value": 1488,
               "gain": 0
             }
           ]
@@ -12802,6 +12832,11 @@
               "date": "2026-11-15",
               "value": 1632,
               "gain": 0
+            },
+            {
+              "date": "2026-11-16",
+              "value": 1616,
+              "gain": 0
             }
           ]
         },
@@ -13967,6 +14002,11 @@
               "date": "2026-11-15",
               "value": 2589,
               "gain": 0
+            },
+            {
+              "date": "2026-11-16",
+              "value": 2563,
+              "gain": 0
             }
           ]
         },
@@ -14847,6 +14887,11 @@
               "date": "2026-11-15",
               "value": 1764,
               "gain": 0
+            },
+            {
+              "date": "2026-11-16",
+              "value": 1746,
+              "gain": 0
             }
           ]
         },
@@ -15330,6 +15375,11 @@
             {
               "date": "2026-11-15",
               "value": 3433,
+              "gain": 0
+            },
+            {
+              "date": "2026-11-16",
+              "value": 3399,
               "gain": 0
             }
           ]
@@ -16131,6 +16181,11 @@
               "date": "2026-11-15",
               "value": 2027,
               "gain": 9
+            },
+            {
+              "date": "2026-11-16",
+              "value": 2006,
+              "gain": 0
             }
           ]
         },
@@ -16712,11 +16767,16 @@
               "date": "2026-11-15",
               "value": 1665,
               "gain": 0
+            },
+            {
+              "date": "2026-11-16",
+              "value": 1649,
+              "gain": 0
             }
           ]
         }
       }
     }
   },
-  "updatedAt": "2026-11-15T20:52:49.408Z"
+  "updatedAt": "2026-11-16T00:50:45.658Z"
 }
