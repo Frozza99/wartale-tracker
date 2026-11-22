@@ -8018,8 +8018,8 @@
             },
             {
               "date": "2026-11-22",
-              "value": 4479,
-              "gain": 1566
+              "value": 4434,
+              "gain": 1521
             }
           ]
         },
@@ -9131,7 +9131,7 @@
             },
             {
               "date": "2026-11-22",
-              "value": 4103,
+              "value": 4021,
               "gain": 0
             }
           ]
@@ -9437,8 +9437,8 @@
             },
             {
               "date": "2026-11-22",
-              "value": 7300,
-              "gain": 567
+              "value": 7227,
+              "gain": 494
             }
           ]
         },
@@ -10118,7 +10118,7 @@
             },
             {
               "date": "2026-11-22",
-              "value": 3955,
+              "value": 3915,
               "gain": 0
             }
           ]
@@ -10574,8 +10574,8 @@
             },
             {
               "date": "2026-11-22",
-              "value": 6659,
-              "gain": 2535
+              "value": 6592,
+              "gain": 2468
             }
           ]
         },
@@ -11122,7 +11122,7 @@
         },
         "Khanh♫Khấm♫Khá": {
           "class": "Desconhecida",
-          "clanIconUrl": null,
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037943.png",
           "history": [
             {
               "date": "2026-08-09",
@@ -11296,8 +11296,8 @@
             },
             {
               "date": "2026-11-22",
-              "value": 4261,
-              "gain": 1367
+              "value": 4218,
+              "gain": 1324
             }
           ]
         },
@@ -12437,7 +12437,7 @@
             },
             {
               "date": "2026-11-22",
-              "value": 4342,
+              "value": 4508,
               "gain": 0
             }
           ]
@@ -13790,7 +13790,7 @@
         },
         "-T0nyH0ang-": {
           "class": "Desconhecida",
-          "clanIconUrl": null,
+          "clanIconUrl": "https://user.wartale.com/clanicons/1000037943.png",
           "history": [
             {
               "date": "2026-09-09",
@@ -13914,8 +13914,8 @@
             },
             {
               "date": "2026-11-22",
-              "value": 4535,
-              "gain": 1482
+              "value": 4489,
+              "gain": 1436
             }
           ]
         },
@@ -15755,8 +15755,8 @@
             },
             {
               "date": "2026-11-22",
-              "value": 13134,
-              "gain": 7756
+              "value": 13003,
+              "gain": 7625
             }
           ]
         },
@@ -17301,7 +17301,7 @@
           "history": [
             {
               "date": "2026-11-22",
-              "value": 5915,
+              "value": 5856,
               "gain": 0
             }
           ]
@@ -17309,5 +17309,5 @@
       }
     }
   },
-  "updatedAt": "2026-11-22T16:57:04.860Z"
+  "updatedAt": "2026-11-22T22:21:58.569Z"
 }
