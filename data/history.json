@@ -8018,8 +8018,8 @@
             },
             {
               "date": "2026-11-22",
-              "value": 2166,
-              "gain": 0
+              "value": 4479,
+              "gain": 1566
             }
           ]
         },
@@ -8835,11 +8835,6 @@
           "clanIconUrl": "https://user.wartale.com/clanicons/1000034842.png",
           "history": [
             {
-              "date": "2026-09-10",
-              "value": 9572,
-              "gain": 463
-            },
-            {
               "date": "2026-09-11",
               "value": 10761,
               "gain": 1189
@@ -9132,6 +9127,11 @@
             {
               "date": "2026-11-21",
               "value": 5717,
+              "gain": 0
+            },
+            {
+              "date": "2026-11-22",
+              "value": 4103,
               "gain": 0
             }
           ]
@@ -9437,8 +9437,8 @@
             },
             {
               "date": "2026-11-22",
-              "value": 1023,
-              "gain": 0
+              "value": 7300,
+              "gain": 567
             }
           ]
         },
@@ -10115,6 +10115,11 @@
               "date": "2026-08-30",
               "value": 5033,
               "gain": 0
+            },
+            {
+              "date": "2026-11-22",
+              "value": 3955,
+              "gain": 0
             }
           ]
         },
@@ -10569,8 +10574,8 @@
             },
             {
               "date": "2026-11-22",
-              "value": 2017,
-              "gain": 0
+              "value": 6659,
+              "gain": 2535
             }
           ]
         },
@@ -11117,7 +11122,7 @@
         },
         "Khanh♫Khấm♫Khá": {
           "class": "Desconhecida",
-          "clanIconUrl": "https://user.wartale.com/clanicons/1000037943.png",
+          "clanIconUrl": null,
           "history": [
             {
               "date": "2026-08-09",
@@ -11288,6 +11293,11 @@
               "date": "2026-11-20",
               "value": 2894,
               "gain": 0
+            },
+            {
+              "date": "2026-11-22",
+              "value": 4261,
+              "gain": 1367
             }
           ]
         },
@@ -12427,7 +12437,7 @@
             },
             {
               "date": "2026-11-22",
-              "value": 1025,
+              "value": 4342,
               "gain": 0
             }
           ]
@@ -13780,7 +13790,7 @@
         },
         "-T0nyH0ang-": {
           "class": "Desconhecida",
-          "clanIconUrl": "https://user.wartale.com/clanicons/1000037943.png",
+          "clanIconUrl": null,
           "history": [
             {
               "date": "2026-09-09",
@@ -13901,6 +13911,11 @@
               "date": "2026-11-21",
               "value": 3053,
               "gain": 0
+            },
+            {
+              "date": "2026-11-22",
+              "value": 4535,
+              "gain": 1482
             }
           ]
         },
@@ -15740,8 +15755,8 @@
             },
             {
               "date": "2026-11-22",
-              "value": 7152,
-              "gain": 1774
+              "value": 13134,
+              "gain": 7756
             }
           ]
         },
@@ -17279,9 +17294,20 @@
               "gain": 0
             }
           ]
+        },
+        "SpawKillAta.": {
+          "class": "Desconhecida",
+          "clanIconUrl": null,
+          "history": [
+            {
+              "date": "2026-11-22",
+              "value": 5915,
+              "gain": 0
+            }
+          ]
         }
       }
     }
   },
-  "updatedAt": "2026-11-22T08:35:49.064Z"
+  "updatedAt": "2026-11-22T16:57:04.860Z"
 }
